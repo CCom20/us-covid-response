@@ -6,35 +6,36 @@ let table = d3.select("#covidTable").select("tbody")
 
 let stateFilter = d3.select("#stateFilter")
 
-
-
 function findStates(data) {
     return data.state = stateSelected;
 }
 
 d3.json(`${nytData}`, function(times) {
 
-    let stateSelected = d3.select("#stateFilter").property('value'); 
+    let stateSelected = stateFilter.property('value'); 
 
-    // console.log(times); 
+    stateFilter.on("change", timeSeriesData); 
 
-    // Select the State for Filtering
-    console.log(stateSelected)
-
-    // Get a list of all states
-    let states = times.map(item => item.state);
-
+    // Function Filter
+    function stateDataFilter(data) {
+        return data.state == `${stateSelected}`; 
+    }
 
     let stateData = times.filter(function(item){
         return item.state == `${stateSelected}`;         
         });
 
     
-    function timeSeriesData(stateData) {
+    function timeSeriesData(d) {
+
+        stateSelected = stateFilter.property('value'); 
+
+        stateData = times.filter(function(item){
+            return item.state == `${stateSelected}`;         
+            }); 
+
         let cases = stateData.map(item => item.cases);
         let dates = stateData.map(item => new Date(item.date));
-        console.log(cases);
-        console.log(dates);
 
         var trace1 = {
             x: dates,
@@ -42,14 +43,16 @@ d3.json(`${nytData}`, function(times) {
             type: 'scatter'
         };
 
-        var timeSeriesData = [trace1];  
+        var timeSeriesData = [trace1];
 
-        Plotly.newPlot('stateTimeSeries', timeSeriesData);
+        var layout = {
+            title: `${stateSelected} Cumulitive Cases Over Time`
+          };
+
+        Plotly.newPlot('stateTimeSeries', timeSeriesData, layout);
     }
 
     timeSeriesData(stateData);
-
-  
     
     
     // function stateTimeSeries(data) {
