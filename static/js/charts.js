@@ -1,9 +1,15 @@
 // EARTHQUAKE DATA URL CONSTANT
-const covidData = ""
+const covidData = "./data/master-data.json"
 
 // READ JSON DATA AND INITIALIZE MAP
 d3.json(`${covidData}`, function(data) {
     console.log(data);
+
+
+
+    data.forEach((item) => {
+        console.log(item)
+    })
 })
 
 // // INITITALIZATION FUNCTION
