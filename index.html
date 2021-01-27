@@ -23,6 +23,26 @@
 <body>
   <div class="container-sm">
     <h1>Welcome</h1>
+    <div>
+      <p>State: <select id="stateFilter"></select></p>
+    </div>
+    <table id="covidTable" class="table">
+      <thead class="thead-dark">
+        <tr>
+          <th scope="col">State</th>
+          <th scope="col">Population</th>
+          <th scope="col">Cases</th>
+          <th scope="col">Deaths</th>
+          <th scope="col">Total Vaccines Distributed</th>
+          <th scope="col">Total Vaccines Administered</th>
+          <th scope="col">Percent Vaccinated</th>
+          <th scope="col">Est. Percent Infected</th>
+          <th scope="col">Est. Percent Immune</th>
+        </tr>
+      </thead>
+      <tbody>
+      </tbody>
+    </table>
     <div id="map-id"></div>
   </div>
   <!-- The div that holds our map -->
