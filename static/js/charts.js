@@ -6,10 +6,6 @@ let table = d3.select("#covidTable").select("tbody")
 
 let stateFilter = d3.select("#stateFilter")
 
-function findStates(data) {
-    return data.state = stateSelected;
-}
-
 d3.json(`${nytData}`, function(times) {
 
     let stateSelected = stateFilter.property('value'); 
@@ -63,7 +59,6 @@ d3.json(`${nytData}`, function(times) {
 
     timeSeriesData(stateData);
     stateBar(stateData);
-    
     filteredTable(); 
 
 })
@@ -74,13 +69,14 @@ function filteredTable() {
         table.html("")
         
         let stateSelected = stateFilter.property('value');
-        let stateRow = table.append('tr') 
+        let stateRow = table.append('tr')
+
+        let tableHeader = d3.select("#stateTableHeader").text(`${stateSelected}`)
 
         data.forEach(item => {
 
             if (item.state == stateSelected) {
 
-                stateRow.append('td').text(item.state)
                 stateRow.append('td').text(item.population)
                 stateRow.append('td').text(item.cases)
                 stateRow.append('td').text(item.deaths)
@@ -106,11 +102,9 @@ d3.json(`${covidData}`, function(data) {
 
 });
 
-function stateBar(d) {
+function stateBar() {
 
     d3.json(`${covidData}`, function(data) {
-
-        console.log(data); 
 
         stateSelected = stateFilter.property('value');
 
@@ -119,11 +113,8 @@ function stateBar(d) {
             }); 
 
         let perVaccinated = stateData.map(item => item.percent_vaccinated);
-        console.log(perVaccinated); 
         let percInfected = stateData.map(item => item.est_percent_infected_to_date);
-        console.log(percInfected); 
         let percImmune = stateData.map(item => item.est_percent_immune);
-        console.log(percImmune); 
 
         let xValue = [`${stateSelected}`];
 
@@ -144,7 +135,7 @@ function stateBar(d) {
                 color: '#0089BA',
                 line: {
                 color: '#374955',
-                width: 1.0
+                width: 1.5
                 }
             }
         };
@@ -156,12 +147,12 @@ function stateBar(d) {
             text: yValue2.map(String),
             textposition: 'auto',
             hoverinfo: 'none',
-            name: 'Percent Infected',
+            name: 'Est. Percent Infected',
             marker: {
                 color: '#374955',
                 line: {
                 color: '#374955',
-                width: 1.0
+                width: 1.5
                 }
             }
         };
@@ -186,7 +177,10 @@ function stateBar(d) {
         var data = [trace1,trace2, trace3];
 
         var layout = {
-        title: `${stateSelected} Estimated Infection, Vaccination, and Immunity`
+        title: `${stateSelected} <br /> Estimated Infection, Vaccination, and Immunity`, 
+        yaxis: {
+            title: '% of Total State Population'
+            }
         };
 
         Plotly.newPlot('stateBarChart', data, layout);
@@ -195,3 +189,21 @@ function stateBar(d) {
     });
  
 }
+
+function usBoxplot() {
+
+    d3.json(`${covidData}`, function(data) {
+
+        var trace1 = {
+            y: data.map(item => item.est_percent_immune),
+            type: 'box'
+        };
+
+        var data = [trace1];
+
+        Plotly.newPlot('usBoxPlot', data);
+
+    });
+}
+
+usBoxplot();

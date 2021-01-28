@@ -3,7 +3,20 @@
     width: 400px; 
 }
 
-body {
-    padding-left: 1%;
-    padding-right: 1%; 
+.stateTable {
+    padding-top: 25px;
 }
+
+#stateTableHeader {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    background-color: #374955;
+    color: #fff;
+}
+
+/* body {
+    padding-left: 10%;
+    padding-right: 10%; 
+} */
