@@ -196,12 +196,19 @@ function usBoxplot() {
 
         var trace1 = {
             y: data.map(item => item.est_percent_immune),
+            name: 'Est. % State Immunity', 
             type: 'box'
         };
 
         var data = [trace1];
 
-        Plotly.newPlot('usBoxPlot', data);
+        var layout = {
+            yaxis: {
+              title: 'State Percent Immune',
+            }
+          };
+
+        Plotly.newPlot('usBoxPlot', data, layout);
 
     });
 }
