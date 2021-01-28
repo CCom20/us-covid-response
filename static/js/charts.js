@@ -57,7 +57,8 @@ d3.json(`${nytData}`, function(times) {
 
         Plotly.newPlot('stateTimeSeries', timeSeriesData, layout);
 
-        filteredTable(); 
+        filteredTable();
+        stateBar(); 
     }
 
     timeSeriesData(stateData);
@@ -118,8 +119,11 @@ function stateBar(d) {
             }); 
 
         let perVaccinated = stateData.map(item => item.percent_vaccinated);
-        let percInfected = stateData.map(item => new Date(item.est_percent_infected_to_date));
-        let percImmune = stateData.map(item => new Date(item.est_percent_immune));
+        console.log(perVaccinated); 
+        let percInfected = stateData.map(item => item.est_percent_infected_to_date);
+        console.log(percInfected); 
+        let percImmune = stateData.map(item => item.est_percent_immune);
+        console.log(percImmune); 
 
         let xValue = [`${stateSelected}`];
 
@@ -134,11 +138,12 @@ function stateBar(d) {
             text: yValue.map(String),
             textposition: 'auto',
             hoverinfo: 'none',
+            name: 'Percent Vaccinated', 
             opacity: 0.5,
             marker: {
-                color: 'rgb(75, 88, 99)',
+                color: '#0089BA',
                 line: {
-                color: 'rgb(75, 88, 99)',
+                color: '#374955',
                 width: 1.0
                 }
             }
@@ -151,11 +156,12 @@ function stateBar(d) {
             text: yValue2.map(String),
             textposition: 'auto',
             hoverinfo: 'none',
+            name: 'Percent Infected',
             marker: {
-                color: 'rgba(58,200,225,.5)',
+                color: '#374955',
                 line: {
-                color: 'rgb(8,48,107)',
-                width: 1.5
+                color: '#374955',
+                width: 1.0
                 }
             }
         };
@@ -164,13 +170,14 @@ function stateBar(d) {
             x: xValue,
             y: yValue3,
             type: 'bar',
-            text: yValue2.map(String),
+            text: yValue3.map(String),
             textposition: 'auto',
+            name: 'Est. Percent Immune',
             hoverinfo: 'none',
             marker: {
-                color: 'rgba(58,200,225,.5)',
+                color: '#48DAA2',
                 line: {
-                color: 'rgb(8,48,107)',
+                color: '#374955',
                 width: 1.5
                 }
             }
