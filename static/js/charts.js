@@ -230,7 +230,6 @@ function usBarChart() {
             type: 'bar'
           };
           
-          
           var data = [trace1];
           
           var layout = {
@@ -253,3 +252,24 @@ function usBarChart() {
 }
 
 usBarChart();
+
+function drawCalendar() {
+    
+    d3.json(`${nytData}`, function(times) {
+
+        var dataTable = new google.visualization.DataTable();
+        dataTable.addColumn({ type: 'date', id: 'Date' });
+        dataTable.addColumn({ type: 'number', id: 'Won/Loss' });
+        dataTable.addRows([times.forEach((date) => new Date(date.date))], [times.forEach((value) => +value.cases)]);
+ 
+        var chart = new google.visualization.Calendar(document.getElementById('calendarChart'));
+ 
+        var options = {
+          title: "Red Sox Attendance",
+          height: 350,
+        };
+ 
+        chart.draw(dataTable, options);
+
+    });    
+}
