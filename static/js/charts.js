@@ -214,3 +214,42 @@ function usBoxplot() {
 }
 
 usBoxplot();
+
+function usBarChart() {
+
+    d3.json(`${covidData}`, function(data) {
+
+        console.log(data);
+
+        var sortedStates = data.sort((a, b) => b.est_percent_immune - a.est_percent_immune);
+
+        var trace1 = {
+            x: sortedStates.map(state => state.state),
+            y: sortedStates.map(state => state.est_percent_immune),
+            name: 'Est. Percent Immune',
+            type: 'bar'
+          };
+          
+          
+          var data = [trace1];
+          
+          var layout = {
+              barmode: 'stack',
+              title: 'State Overview <br />Sorted by Estimated Percent Immune',
+              xaxis: {
+                  title: 'States',
+                  tickangle: -45,
+                  automargin: true
+              },
+              yaxis: {
+                  title: 'Total % of Population'
+              }
+            };
+          
+          Plotly.newPlot('usBarChart', data, layout);
+
+    });
+
+}
+
+usBarChart();
