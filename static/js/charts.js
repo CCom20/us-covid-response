@@ -1,5 +1,5 @@
-// EARTHQUAKE DATA URL CONSTANT
-const covidData = "./data/master-data.json"
+// DATA RL CONSTANTS
+const covidData = "./data/state-master-data.json"
 const nytData = "./data/nyt-master.json"
 
 let table = d3.select("#covidTable").select("tbody")

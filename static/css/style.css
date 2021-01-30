@@ -9,6 +9,13 @@ h2 {
     height: 500px;
 }
 
+/* Google Calendar Chart */
+#calendarChart {
+    width: 100%;
+    min-height: 450px;
+}
+
+
 .dataDivider {
     margin: 25px 0px 25px 0px;
     padding-top: 5px;
