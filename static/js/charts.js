@@ -254,6 +254,8 @@ usBarChart();
 dailyCases = "../data/daily_new_cases.json"
 
 function drawCalendar() {
+
+    let calendarWidth = d3.select("#calendarChart").property('width');
     
     d3.json(`${dailyCases}`, function(data) {
 
@@ -269,13 +271,78 @@ function drawCalendar() {
  
         var options = {
           title: "Daily New Cases",
-          height: 350,
+          height: 300,
+          width: calendarWidth - 100,
+          chartArea: {
+              width: calendarWidth - 100,
+              left: 100,
+              top: 100
+            },
           calendar: {
-              minValue: 0,  colors: ['#48DAA2']
+              minValue: 0,  colors: ['#48DAA2'],
+              cellSize: 14,
             }
         };
  
         chart.draw(dataTable, options);
 
     });    
-}
+};
+
+function atAGlance(){
+
+    d3.json(`${covidData}`, function(data) {
+
+        let state_vaccinated = data.map(item => [item.state, item.percent_vaccinated]);
+        let state_cases = data.map(item => [item.state, item.cases]);
+        let state_immune = data.map(item => [item.state, item.est_percent_immune]);
+        console.log(state_immune)
+
+        // Find State - Vaccinated
+        let topVaccState = "";
+        let topVaccinated = 0;  
+        
+        state_vaccinated.forEach((state) => {
+
+            if (state[1] > topVaccinated) {
+                topVaccinated = state[1];
+                topVaccState = state[0];
+            };
+        });
+
+        // Find State - Cases
+        let stateCases = "";
+        let stateCasesNum = 0;
+
+        state_cases.forEach((item) => {
+            
+            if (item[1] > stateCasesNum) {
+
+                stateCases = item[0];
+                stateCasesNum = item[1]
+            };
+        });
+
+        let stateImmune = "";
+        let stateImmuneNum = 0;
+
+        state_immune.forEach((item) => {
+            
+            if (item[1] > stateImmuneNum) {
+
+                stateImmune = item[0];
+                stateImmuneNum = item[1]
+            };
+        });
+    
+        // Find State - Immunity
+
+        // Insert Information
+        d3.select('#stateVaccinated').text(`${topVaccState} leads the way with ${topVaccinated}% of their population vaccinated.`)
+        d3.select('#stateCases').text(`Currently, ${stateCases} has the most cases at ${stateCasesNum.toLocaleString('en-US')}.`)
+        d3.select('#estImmune').text(`${stateImmune} leads the way with and estimated ${stateImmuneNum}% immune.`)
+   
+    });
+}; 
+
+atAGlance();

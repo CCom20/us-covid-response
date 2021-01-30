@@ -11,8 +11,7 @@ h2 {
 
 /* Google Calendar Chart */
 #calendarChart {
-    width: 100%;
-    min-height: 450px;
+    padding: 10px 10px 10px 10px;
 }
 
 
