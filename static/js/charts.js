@@ -219,8 +219,6 @@ function usBarChart() {
 
     d3.json(`${covidData}`, function(data) {
 
-        console.log(data);
-
         var sortedStates = data.sort((a, b) => b.est_percent_immune - a.est_percent_immune);
 
         var trace1 = {
@@ -241,7 +239,7 @@ function usBarChart() {
                   automargin: true
               },
               yaxis: {
-                  title: 'Total % of Population'
+                  title: '% of State of Population'
               }
             };
           
@@ -260,7 +258,6 @@ function drawCalendar() {
     d3.json(`${dailyCases}`, function(data) {
 
         dateCases = data.map((date) => [new Date(date.date), date.daily_new_cases]);
-        console.log(dateCases); 
 
         var dataTable = new google.visualization.DataTable();
         dataTable.addColumn({ type: 'date', id: 'Date' });
