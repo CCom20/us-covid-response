@@ -235,7 +235,7 @@ function usBarChart() {
               title: 'State Overview <br />Sorted by Estimated Percent Immune',
               xaxis: {
                   title: 'States',
-                  tickangle: -45,
+                //   tickangle: -45,
                   automargin: true
               },
               yaxis: {
@@ -346,3 +346,14 @@ function atAGlance(){
 }; 
 
 atAGlance();
+
+function usCasesMap(){
+    var map = L.map('usCasesMap', {
+        center: [51.505, -0.09],
+        zoom: 13
+    });
+
+
+};
+
+usCasesMap(); 
