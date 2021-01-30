@@ -347,13 +347,27 @@ function atAGlance(){
 
 atAGlance();
 
+var COVIDmap = L.map('usCasesMap', {
+    center: [38.9979339, -105.550567],
+    zoom: 5
+});
+
+// 39.8283° N, 98.5795° W
+
 function usCasesMap(){
-    var map = L.map('usCasesMap', {
-        center: [51.505, -0.09],
-        zoom: 13
-    });
+    
+    d3.json(`${covidData}`, function(data){
 
+        L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+            attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+            maxZoom: 18,
+            id: 'mapbox/streets-v11',
+            tileSize: 512,
+            zoomOffset: -1,
+            accessToken: 'pk.eyJ1IjoiY29sZWNvbXN0b2NrIiwiYSI6ImNrancyMHprNjA1bTkyeG54cnozOGxjZHAifQ.-Oo6iD15OttITzEZ5hOPog'
+        }).addTo(COVIDmap);
 
+    }); 
 };
 
 usCasesMap(); 

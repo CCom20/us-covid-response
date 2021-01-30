@@ -1,8 +1,12 @@
-/* Header Styling */
+/* Element Styling */
 h2 {
     padding-top: 10px;
 }
 
+/* Cards Styling */
+.card {
+    height: 175px;
+}
 /* Plotly Styling */
 #usBarChart {
     margin-left: 10px;
