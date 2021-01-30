@@ -253,20 +253,29 @@ function usBarChart() {
 
 usBarChart();
 
+dailyCases = "../data/daily_new_cases.json"
+
 function drawCalendar() {
     
-    d3.json(`${nytData}`, function(times) {
+    d3.json(`${dailyCases}`, function(data) {
+
+        dateCases = data.map((date) => [new Date(date.date), date.daily_new_cases]);
+        console.log(dateCases); 
 
         var dataTable = new google.visualization.DataTable();
         dataTable.addColumn({ type: 'date', id: 'Date' });
-        dataTable.addColumn({ type: 'number', id: 'Won/Loss' });
-        dataTable.addRows([times.forEach((date) => new Date(date.date))], [times.forEach((value) => +value.cases)]);
+        dataTable.addColumn({ type: 'number', id: 'Cases' });
+        dataTable.addRows(dateCases);
+
  
         var chart = new google.visualization.Calendar(document.getElementById('calendarChart'));
  
         var options = {
-          title: "Red Sox Attendance",
+          title: "Daily New Cases",
           height: 350,
+          calendar: {
+              minValue: 0,  colors: ['#48DAA2']
+            }
         };
  
         chart.draw(dataTable, options);
