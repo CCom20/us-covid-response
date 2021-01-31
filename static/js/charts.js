@@ -240,11 +240,11 @@ function usDailyCases(){
             
             if (item.daily_new_cases > usCases) {
                 usCases = item.daily_new_cases; 
-                worstDate = new Date(item.date);
+                worstDate = new Date(item.date).toLocaleString('en-US');
             }
         });
 
-        d3.select("#worstWeek").append("p").text(`The U.S. saw the most cases on ${worstDate.toLocaleString('en-US')}.`)
+        d3.select("#worstWeek").append("p").text(`The U.S. saw the most cases on ${worstDate}.`)
     });
 };
 
