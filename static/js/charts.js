@@ -192,44 +192,7 @@ function stateBar() {
     
     });
  
-}
-
-
-// function drawCalendar() {
-
-//     let calendarWidth = d3.select("#calendarChart").property('width');
-    
-//     d3.json(`${dailyCases}`, function(data) {
-
-//         dateCases = data.map((date) => [new Date(date.date), date.daily_new_cases]);
-
-//         var dataTable = new google.visualization.DataTable();
-//         dataTable.addColumn({ type: 'date', id: 'Date' });
-//         dataTable.addColumn({ type: 'number', id: 'Cases' });
-//         dataTable.addRows(dateCases);
-
- 
-//         var chart = new google.visualization.Calendar(document.getElementById('calendarChart'));
- 
-//         var options = {
-//           title: "Daily New Cases",
-//           height: 300,
-//         //   width: calendarWidth,
-//           chartArea: {
-//             //   width: calendarWidth,
-//               left: 100,
-//               top: 100
-//             },
-//           calendar: {
-//               minValue: 0,  colors: ['#48DAA2'],
-//               cellSize: 14,
-//             }
-//         };
- 
-//         chart.draw(dataTable, options);
-
-//     });    
-// };
+};
 
 function usDailyCases(){
     d3.json(`${dailyCases}`, function(data){
@@ -428,10 +391,8 @@ function usDailyCasesSeries() {
 
     d3.json(`${dailyCases}`, function(data) {
 
-        console.log(data);
-
         var trace1 = {
-            x: data.map((item) => item.date),
+            x: data.map((item) => new Date(item.date)),
             y: data.map((item) => item.daily_new_cases),
             type: 'bar',
             marker: {
