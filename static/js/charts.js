@@ -374,8 +374,11 @@ function usScatter(){
         let usCases = data.map((item) => item.cases);
         let percVacc = data.map((item) => item.percent_vaccinated);
         let regressData = data.map((item) => [item.percent_vaccinated, item.cases]);
-        let regressPlot = regression.logarithmic(regressData);
-        console.log(regressPlot); 
+        console.log(regressData); 
+        let regressDataSorted = regressData.sort((a, b) => a[0] - b[0]);
+        console.log(regressDataSorted); 
+        let regressPlot = regression.logarithmic(regressDataSorted);
+        // console.log(regressPlot); 
 
         var trace1 = {
             x: percVacc,
@@ -390,7 +393,7 @@ function usScatter(){
             x: regressPlot.points.map(item => item[0]), 
             y: regressPlot.points.map(item => item[1]),
             name: "Regression Model", 
-            mode: 'markers',
+            mode: 'lines',
             type: 'scatter',
           };
         
