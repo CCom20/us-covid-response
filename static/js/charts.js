@@ -190,66 +190,6 @@ function stateBar() {
  
 }
 
-// function usBoxplot() {
-
-//     d3.json(`${covidData}`, function(data) {
-
-//         var trace1 = {
-//             y: data.map(item => item.est_percent_immune),
-//             name: 'Est. % State Immunity', 
-//             type: 'box'
-//         };
-
-//         var data = [trace1];
-
-//         var layout = {
-//             yaxis: {
-//               title: 'State Percent Immune',
-//             }
-//           };
-
-//         Plotly.newPlot('usBoxPlot', data, layout);
-
-//     });
-// }
-
-// usBoxplot();
-
-// function usBarChart() {
-
-//     d3.json(`${covidData}`, function(data) {
-
-//         var sortedStates = data.sort((a, b) => b.est_percent_immune - a.est_percent_immune);
-
-//         var trace1 = {
-//             x: sortedStates.map(state => state.state),
-//             y: sortedStates.map(state => state.est_percent_immune),
-//             name: 'Est. Percent Immune',
-//             type: 'bar'
-//           };
-          
-//           var data = [trace1];
-          
-//           var layout = {
-//               barmode: 'stack',
-//               title: 'State Overview <br />Sorted by Estimated Percent Immune',
-//               xaxis: {
-//                   title: 'States',
-//                 //   tickangle: -45,
-//                   automargin: true
-//               },
-//               yaxis: {
-//                   title: '% of State of Population'
-//               }
-//             };
-          
-//           Plotly.newPlot('usBarChart', data, layout);
-
-//     });
-
-// }
-
-// usBarChart();
 
 dailyCases = "../data/daily_new_cases.json"
 
@@ -272,9 +212,9 @@ function drawCalendar() {
         var options = {
           title: "Daily New Cases",
           height: 300,
-          width: calendarWidth - 100,
+        //   width: calendarWidth,
           chartArea: {
-              width: calendarWidth - 100,
+            //   width: calendarWidth,
               left: 100,
               top: 100
             },
@@ -288,6 +228,27 @@ function drawCalendar() {
 
     });    
 };
+
+function usDailyCases(){
+    d3.json(`${dailyCases}`, function(data){
+        console.log(data);
+
+        var usCases = 0;
+        var worstDate = "";
+
+        data.forEach((item) => {
+            
+            if (item.daily_new_cases > usCases) {
+                usCases = item.daily_new_cases; 
+                worstDate = new Date(item.date);
+            }
+        });
+
+        d3.select("#worstWeek").append("p").text(`The U.S. saw the most cases on ${worstDate.toLocaleString('en-US')}.`)
+    });
+};
+
+usDailyCases(); 
 
 function atAGlance(){
 
@@ -353,10 +314,7 @@ function usCasesMap(){
     
     d3.json(`${covidData}`, function(data){
 
-        console.log(data);
-
         let mapFilter = mapSelections.property("value");
-        console.log(mapFilter);
 
         if (mapFilter === 'Cases') {
             var mapData = data.map((item) => item.cases)
@@ -408,4 +366,4 @@ function usCasesMap(){
     }); 
 };
 
-usCasesMap(); 
+usCasesMap();
