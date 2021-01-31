@@ -1,7 +1,7 @@
 // DATA RL CONSTANTS
 const covidData = "./data/state-master-data.json"
 const nytData = "./data/nyt-master.json"
-const dailyCases = "../data/daily_new_cases.json"
+const dailyCases = "./data/daily_new_cases.json"
 
 let table = d3.select("#covidTable").select("tbody")
 
