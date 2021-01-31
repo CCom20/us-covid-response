@@ -428,6 +428,8 @@ function usDailyCasesSeries() {
 
     d3.json(`${dailyCases}`, function(data) {
 
+        console.log(data);
+
         var trace1 = {
             x: data.map((item) => item.date),
             y: data.map((item) => item.daily_new_cases),
