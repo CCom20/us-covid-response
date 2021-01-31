@@ -296,7 +296,6 @@ function atAGlance(){
         let state_vaccinated = data.map(item => [item.state, item.percent_vaccinated]);
         let state_cases = data.map(item => [item.state, item.cases]);
         let state_immune = data.map(item => [item.state, item.est_percent_immune]);
-        console.log(state_immune)
 
         // Find State - Vaccinated
         let topVaccState = "";
@@ -347,26 +346,40 @@ function atAGlance(){
 
 atAGlance();
 
-var COVIDmap = L.map('usCasesMap', {
-    center: [38.9979339, -105.550567],
-    zoom: 5
-});
-
-// 39.8283° N, 98.5795° W
+stateBorders = "https://raw.githubusercontent.com/python-visualization/folium/master/examples/data/us-states.json"
 
 function usCasesMap(){
     
     d3.json(`${covidData}`, function(data){
 
-        L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
-            attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-            maxZoom: 18,
-            id: 'mapbox/streets-v11',
-            tileSize: 512,
-            zoomOffset: -1,
-            accessToken: 'pk.eyJ1IjoiY29sZWNvbXN0b2NrIiwiYSI6ImNrancyMHprNjA1bTkyeG54cnozOGxjZHAifQ.-Oo6iD15OttITzEZ5hOPog'
-        }).addTo(COVIDmap);
+        console.log(data); 
 
+        var data = [{
+            type: "choroplethmapbox", 
+            name: "US states", 
+            geojson: "https://raw.githubusercontent.com/python-visualization/folium/master/examples/data/us-states.json", 
+            locations: data.map((item) => item.Abb),
+            z: data.map((item) => item.cases),
+            zmin: d3.min(data.map((item) => item.cases)), 
+            zmax: d3.max(data.map((item) => item.cases))
+        }];
+           
+           var layout = {
+               mapbox: {
+                   style: "streets", 
+                   center: {
+                       lon: -110, 
+                       lat: 50}, 
+                       zoom: 3
+                    }, 
+                // width: 700, 
+                // height: 500, 
+                margin:{ r: 0, t: 0, b: 0, l: 0 }};
+           
+           var config = {mapboxAccessToken: "pk.eyJ1IjoiY29sZWNvbXN0b2NrIiwiYSI6ImNrancyMHprNjA1bTkyeG54cnozOGxjZHAifQ.-Oo6iD15OttITzEZ5hOPog"};
+           
+           Plotly.newPlot('usCasesMap', data, layout, config)
+         
     }); 
 };
 
