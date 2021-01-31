@@ -431,7 +431,7 @@ function usDailyCasesSeries() {
         var trace1 = {
             x: data.map((item) => item.date),
             y: data.map((item) => item.daily_new_cases),
-            type: 'scatter',
+            type: 'bar',
             marker: {
                 color: '#0D527C', 
             },
