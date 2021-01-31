@@ -367,3 +367,51 @@ function usCasesMap(){
 };
 
 usCasesMap();
+
+function usScatter(){
+    d3.json(`${covidData}`, function(data) {
+
+        let usCases = data.map((item) => item.cases);
+        let percVacc = data.map((item) => item.percent_vaccinated);
+        let regressData = data.map((item) => [item.percent_vaccinated, item.cases]);
+        let regressPlot = regression.logarithmic(regressData);
+        console.log(regressPlot); 
+
+        var trace1 = {
+            x: percVacc,
+            y: usCases,
+            name: "Cases & Vaccinations",
+            mode: 'markers',
+            type: 'scatter',
+            text: data.map((item) => item.state)
+          };
+        
+        var trace2 = {
+            x: regressPlot.points.map(item => item[0]), 
+            y: regressPlot.points.map(item => item[1]),
+            name: "Regression Model", 
+            mode: 'markers',
+            type: 'scatter',
+          };
+        
+        let layout = {
+            title: "Cases vs. Percent Vaccinated",
+            xaxis: {
+                title: "Percent Vaccinated",
+            },
+            yaxis: {
+                title: "Number of Cases"
+            },
+            legend: {
+
+            }
+        }; 
+          
+          var data = [trace1, trace2];
+          
+          Plotly.newPlot('usScatterPlot', data, layout);
+
+    });
+};
+
+usScatter(); 

@@ -23,6 +23,11 @@
 
   <!-- Our CSS -->
   <link rel="stylesheet" type="text/css" href="static/css/style.css">
+
+  <!-- Regression Library -->
+  <!-- Regression functions found: https://github.com/Tom-Alexander/regression-js -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/regression/2.0.1/regression.js" integrity="sha512-PHHRPMxJK1xGYLQPv9FoDbCF2X23Ao1lMAD52oLY9TBW033s4zwIXl5JQBGlfI2iOx3W1qP3LAS/MMv5Ttj0aQ==" crossorigin="anonymous"></script>
+
 </head>
 
 <body>
@@ -76,6 +81,15 @@
 
       </div>
     </div>
+    <div>
+      <h3>Vaccinations and Cases Correlation</h3>
+      <p>Early data suggests a -.31 correlation between the number of cases and the percentage of a state's population that has been vaccinated.</p>
+    </div>
+    <div id="usScatter" >
+      <div id="usScatterPlot">
+
+      </div>
+    </div>
     <div class="dataDivider">
     </div>
     <h3>U.S. Daily Cases</h3>
@@ -87,7 +101,7 @@
       </div>
       <div class="col">
         <div class="card">
-          <div class="card-body">
+          <div id="worstWeek" class="card-body">
             <h5 class="card-title">Which date saw the most cases?</h5>
             <p id="worstWeek" class="card-text"></p>
           </div>
