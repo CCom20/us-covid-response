@@ -36,7 +36,10 @@ d3.json(`${nytData}`, function(times) {
         var trace1 = {
             x: dates,
             y: cases,
-            type: 'scatter'
+            type: 'scatter',
+            marker: {
+                color: '#0D527C', 
+            },
         };
 
         var timeSeriesData = [trace1];
@@ -369,24 +372,25 @@ function usCasesMap(){
 usCasesMap();
 
 function usScatter(){
+    
     d3.json(`${covidData}`, function(data) {
 
         let usCases = data.map((item) => item.cases);
         let percVacc = data.map((item) => item.percent_vaccinated);
         let regressData = data.map((item) => [item.percent_vaccinated, item.cases]);
-        console.log(regressData); 
         let regressDataSorted = regressData.sort((a, b) => a[0] - b[0]);
-        console.log(regressDataSorted); 
         let regressPlot = regression.logarithmic(regressDataSorted);
-        // console.log(regressPlot); 
 
         var trace1 = {
             x: percVacc,
             y: usCases,
-            name: "Cases & Vaccinations",
+            name: "Cases & % Vaccinated Data",
             mode: 'markers',
             type: 'scatter',
-            text: data.map((item) => item.state)
+            text: data.map((item) => item.state),
+            marker: {
+                color: '#0D527C'
+            }
           };
         
         var trace2 = {

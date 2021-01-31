@@ -83,7 +83,7 @@
     </div>
     <div>
       <h3>Vaccinations and Cases Correlation</h3>
-      <p>Early data suggests a -.31 correlation between the number of cases and the percentage of a state's population that has been vaccinated.</p>
+      <p>Early data suggests a weak, negative correlation between the number of cases and the percentage of a state's population that has been vaccinated.</p>
     </div>
     <div id="usScatter" >
       <div id="usScatterPlot">
@@ -116,10 +116,29 @@
       <p>State: <select id="stateFilter"></select></p>
     </div>
 
-    <!-- State Overview Dashboard -->
+    <!-- STATE DRILLDOWN DASHBOARD -->
     <div>
       <h4 id="stateTableHeader"></h4>
     </div>
+    <!-- State Table -->
+    <div class="stateTable">
+      <table id="covidTable" class="table table-bordered table-sm">
+        <thead class="theadColor">
+          <tr>
+            <th scope="col">Population</th>
+            <th scope="col">Cases</th>
+            <th scope="col">Deaths</th>
+            <th scope="col">Vaccines Distributed</th>
+            <th scope="col"> Vaccines Administered</th>
+            <th scope="col">Percent Vaccinated</th>
+            <th scope="col">Est. Percent Infected</th>
+            <th scope="col">Est. Percent Immune</th>
+          </tr>
+        </thead>
+        <tbody>
+      </table>
+    </div>
+    <!-- State Graphs -->
     <div class="row">
       <div class="col">
         <div id="stateTimeSeries">
@@ -132,24 +151,6 @@
         </div>
       </div>
     </div>
-    <!-- COVID Table -->
-    <div class="stateTable">
-      <table id="covidTable" class="table table-bordered">
-        <thead class="thead-dark">
-          <tr>
-            <th scope="col">Population</th>
-            <th scope="col">Cases</th>
-            <th scope="col">Deaths</th>
-            <th scope="col">Total Vaccines Distributed</th>
-            <th scope="col">Total Vaccines Administered</th>
-            <th scope="col">Percent Vaccinated</th>
-            <th scope="col">Est. Percent Infected</th>
-            <th scope="col">Est. Percent Immune</th>
-          </tr>
-        </thead>
-        <tbody>
-      </table>
-  </div>
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
       <p class="lead">Links to data sources.</p>
