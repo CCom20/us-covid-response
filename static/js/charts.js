@@ -1,6 +1,7 @@
 // DATA RL CONSTANTS
 const covidData = "./data/state-master-data.json"
 const nytData = "./data/nyt-master.json"
+const dailyCases = "../data/daily_new_cases.json"
 
 let table = d3.select("#covidTable").select("tbody")
 
@@ -194,43 +195,41 @@ function stateBar() {
 }
 
 
-dailyCases = "../data/daily_new_cases.json"
+// function drawCalendar() {
 
-function drawCalendar() {
-
-    let calendarWidth = d3.select("#calendarChart").property('width');
+//     let calendarWidth = d3.select("#calendarChart").property('width');
     
-    d3.json(`${dailyCases}`, function(data) {
+//     d3.json(`${dailyCases}`, function(data) {
 
-        dateCases = data.map((date) => [new Date(date.date), date.daily_new_cases]);
+//         dateCases = data.map((date) => [new Date(date.date), date.daily_new_cases]);
 
-        var dataTable = new google.visualization.DataTable();
-        dataTable.addColumn({ type: 'date', id: 'Date' });
-        dataTable.addColumn({ type: 'number', id: 'Cases' });
-        dataTable.addRows(dateCases);
+//         var dataTable = new google.visualization.DataTable();
+//         dataTable.addColumn({ type: 'date', id: 'Date' });
+//         dataTable.addColumn({ type: 'number', id: 'Cases' });
+//         dataTable.addRows(dateCases);
 
  
-        var chart = new google.visualization.Calendar(document.getElementById('calendarChart'));
+//         var chart = new google.visualization.Calendar(document.getElementById('calendarChart'));
  
-        var options = {
-          title: "Daily New Cases",
-          height: 300,
-        //   width: calendarWidth,
-          chartArea: {
-            //   width: calendarWidth,
-              left: 100,
-              top: 100
-            },
-          calendar: {
-              minValue: 0,  colors: ['#48DAA2'],
-              cellSize: 14,
-            }
-        };
+//         var options = {
+//           title: "Daily New Cases",
+//           height: 300,
+//         //   width: calendarWidth,
+//           chartArea: {
+//             //   width: calendarWidth,
+//               left: 100,
+//               top: 100
+//             },
+//           calendar: {
+//               minValue: 0,  colors: ['#48DAA2'],
+//               cellSize: 14,
+//             }
+//         };
  
-        chart.draw(dataTable, options);
+//         chart.draw(dataTable, options);
 
-    });    
-};
+//     });    
+// };
 
 function usDailyCases(){
     d3.json(`${dailyCases}`, function(data){
@@ -422,3 +421,38 @@ function usScatter(){
 };
 
 usScatter(); 
+
+// US DAILY CASES CHART
+
+function usDailyCasesSeries() {
+
+    d3.json(`${dailyCases}`, function(data) {
+
+        var trace1 = {
+            x: data.map((item) => item.date),
+            y: data.map((item) => item.daily_new_cases),
+            type: 'scatter',
+            marker: {
+                color: '#0D527C', 
+            },
+        };
+    
+        var timeSeriesData = [trace1];
+    
+        var layout = {
+            title: `U.S. Daily Cases`,
+            xaxis: {
+                title: 'Date'
+              },
+            yaxis: {
+            title: 'Total Cases'
+            }
+          };
+    
+        Plotly.newPlot('calendarChart', timeSeriesData, layout);
+
+    });
+
+};
+
+usDailyCasesSeries(); 
