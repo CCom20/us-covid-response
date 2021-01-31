@@ -9,7 +9,6 @@ h2 {
 }
 /* Plotly Styling */
 #usBarChart {
-    margin-left: 10px;
     height: 500px;
 }
 
@@ -18,15 +17,18 @@ h2 {
     padding: 10px 10px 10px 10px;
 }
 
-/* US Cases Map */
+/* US CASES MAP */
 #usCasesMap {
-    height: 500px;
+    height: 100%;
     width: 100%;
+    border-right: 1px solid lightgrey;
 }
 
 #LeafletMap {
     padding-bottom: 25px;
 }
+
+/* STATE EST PERCENT IMMUNE BAR CHART */
 
 /* Landing Summary Boxes */
 #landingSummary {
@@ -37,16 +39,11 @@ h2 {
 
 .dataDivider {
     margin: 25px 0px 25px 0px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
     background-color: #374955;
     border-radius: 5px;
     opacity: 0.5;
-}
-
-.plot-container.plotly {
-    width: 400px;
-    margin: 10px 20px 10px 20px;
 }
 
 .stateTable {
@@ -61,8 +58,3 @@ h2 {
     background-color: #374955;
     color: #fff;
 }
-
-/* body {
-    padding-left: 10%;
-    padding-right: 10%; 
-} */

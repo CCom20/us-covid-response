@@ -190,66 +190,66 @@ function stateBar() {
  
 }
 
-function usBoxplot() {
+// function usBoxplot() {
 
-    d3.json(`${covidData}`, function(data) {
+//     d3.json(`${covidData}`, function(data) {
 
-        var trace1 = {
-            y: data.map(item => item.est_percent_immune),
-            name: 'Est. % State Immunity', 
-            type: 'box'
-        };
+//         var trace1 = {
+//             y: data.map(item => item.est_percent_immune),
+//             name: 'Est. % State Immunity', 
+//             type: 'box'
+//         };
 
-        var data = [trace1];
+//         var data = [trace1];
 
-        var layout = {
-            yaxis: {
-              title: 'State Percent Immune',
-            }
-          };
+//         var layout = {
+//             yaxis: {
+//               title: 'State Percent Immune',
+//             }
+//           };
 
-        Plotly.newPlot('usBoxPlot', data, layout);
+//         Plotly.newPlot('usBoxPlot', data, layout);
 
-    });
-}
+//     });
+// }
 
-usBoxplot();
+// usBoxplot();
 
-function usBarChart() {
+// function usBarChart() {
 
-    d3.json(`${covidData}`, function(data) {
+//     d3.json(`${covidData}`, function(data) {
 
-        var sortedStates = data.sort((a, b) => b.est_percent_immune - a.est_percent_immune);
+//         var sortedStates = data.sort((a, b) => b.est_percent_immune - a.est_percent_immune);
 
-        var trace1 = {
-            x: sortedStates.map(state => state.state),
-            y: sortedStates.map(state => state.est_percent_immune),
-            name: 'Est. Percent Immune',
-            type: 'bar'
-          };
+//         var trace1 = {
+//             x: sortedStates.map(state => state.state),
+//             y: sortedStates.map(state => state.est_percent_immune),
+//             name: 'Est. Percent Immune',
+//             type: 'bar'
+//           };
           
-          var data = [trace1];
+//           var data = [trace1];
           
-          var layout = {
-              barmode: 'stack',
-              title: 'State Overview <br />Sorted by Estimated Percent Immune',
-              xaxis: {
-                  title: 'States',
-                //   tickangle: -45,
-                  automargin: true
-              },
-              yaxis: {
-                  title: '% of State of Population'
-              }
-            };
+//           var layout = {
+//               barmode: 'stack',
+//               title: 'State Overview <br />Sorted by Estimated Percent Immune',
+//               xaxis: {
+//                   title: 'States',
+//                 //   tickangle: -45,
+//                   automargin: true
+//               },
+//               yaxis: {
+//                   title: '% of State of Population'
+//               }
+//             };
           
-          Plotly.newPlot('usBarChart', data, layout);
+//           Plotly.newPlot('usBarChart', data, layout);
 
-    });
+//     });
 
-}
+// }
 
-usBarChart();
+// usBarChart();
 
 dailyCases = "../data/daily_new_cases.json"
 
@@ -346,37 +346,62 @@ function atAGlance(){
 
 atAGlance();
 
-stateBorders = "https://raw.githubusercontent.com/python-visualization/folium/master/examples/data/us-states.json"
+let mapSelections = d3.select("#usChoroplet")
+mapSelections.on("change", usCasesMap); 
 
 function usCasesMap(){
     
     d3.json(`${covidData}`, function(data){
 
-        console.log(data); 
+        console.log(data);
+
+        let mapFilter = mapSelections.property("value");
+        console.log(mapFilter);
+
+        if (mapFilter === 'Cases') {
+            var mapData = data.map((item) => item.cases)
+        } 
+        else if (mapFilter === 'Deaths') {
+            var mapData = data.map((item) => item.deaths)
+        }
+        else if (mapFilter === 'Vaccines Distributed') {
+            var mapData = data.map((item) => item.deaths)
+        }
+        else if (mapFilter === 'Est. Percent Immune') {
+            var mapData = data.map((item) => item.est_percent_immune)
+        }
+        else if (mapFilter === 'Percent Vaccinated') {
+            var mapData = data.map((item) => item.percent_vaccinated)
+        }
+        else if (mapFilter === 'Vaccines Administered') {
+            var mapData = data.map((item) => item.total_administered)
+        }
+        else if (mapFilter === 'Vaccines Distributed') {
+            var mapData = data.map((item) => item.total_distributed)
+        }
 
         var data = [{
             type: "choroplethmapbox", 
-            name: "US states", 
+            name: "US states",
+            colorscale: [[0, "#BBDEF4"], [1, "#0D527C"]], 
             geojson: "https://raw.githubusercontent.com/python-visualization/folium/master/examples/data/us-states.json", 
             locations: data.map((item) => item.Abb),
-            z: data.map((item) => item.cases),
-            zmin: d3.min(data.map((item) => item.cases)), 
-            zmax: d3.max(data.map((item) => item.cases))
+            z: mapData,
+            zmin: d3.min(mapData), 
+            zmax: d3.max(mapData)
         }];
            
            var layout = {
                mapbox: {
                    style: "streets", 
                    center: {
-                       lon: -110, 
-                       lat: 50}, 
+                       lon: -98.5795, 
+                       lat: 39.8283}, 
                        zoom: 3
-                    }, 
-                // width: 700, 
-                // height: 500, 
+                    },
                 margin:{ r: 0, t: 0, b: 0, l: 0 }};
            
-           var config = {mapboxAccessToken: "pk.eyJ1IjoiY29sZWNvbXN0b2NrIiwiYSI6ImNrancyMHprNjA1bTkyeG54cnozOGxjZHAifQ.-Oo6iD15OttITzEZ5hOPog"};
+           var config = {mapboxAccessToken: `${API_KEY}`};
            
            Plotly.newPlot('usCasesMap', data, layout, config)
          
