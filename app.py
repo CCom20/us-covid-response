@@ -3,11 +3,7 @@ from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
 import datetime as dt
-
-endpoint = "db-1-replica.ckcezj6mfmmk.us-east-2.rds.amazonaws.com"
-password = "C0vid2021analysis"
-username = "uscovid" 
-db_name = "us_covid_db"
+from config import endpoint, password, username, db_name
 
 # Create the engine
 engine = create_engine(f'postgresql://uscovid:{password}@{endpoint}/us_covid_db')

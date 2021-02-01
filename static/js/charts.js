@@ -7,7 +7,7 @@ let table = d3.select("#covidTable").select("tbody")
 
 let stateFilter = d3.select("#stateFilter")
 
-d3.json(`${nytData}`, function(times) {
+d3.json(nytData, function(times) {
 
     let stateSelected = stateFilter.property('value'); 
 
@@ -52,10 +52,18 @@ d3.json(`${nytData}`, function(times) {
               },
             yaxis: {
             title: 'Total Cases'
-            }
+            },
+            legend: {
+                x: 1,
+                xanchor: 'right',
+                y: 1
+              }
           };
 
-        Plotly.newPlot('stateTimeSeries', timeSeriesData, layout);
+        var config = {responsive: true};
+
+
+        Plotly.newPlot('stateTimeSeries', timeSeriesData, layout, config);
 
         filteredTable();
         stateBar(); 
@@ -184,10 +192,13 @@ function stateBar() {
         title: `${stateSelected} <br /> Estimated Infection, Vaccination, and Immunity`, 
         yaxis: {
             title: '% of Total State Population'
-            }
+            },
+            legend: {"orientation": "h"}
         };
 
-        Plotly.newPlot('stateBarChart', data, layout);
+        var config = {responsive: true};
+
+        Plotly.newPlot('stateBarChart', data, layout, config);
 
     
     });
@@ -314,19 +325,20 @@ function usCasesMap(){
             zmax: d3.max(mapData)
         }];
            
-           var layout = {
-               mapbox: {
-                   style: "streets", 
-                   center: {
-                       lon: -98.5795, 
-                       lat: 39.8283}, 
-                       zoom: 3
-                    },
-                margin:{ r: 0, t: 0, b: 0, l: 0 }};
-           
-           var config = {mapboxAccessToken: `${API_KEY}`};
-           
-           Plotly.newPlot('usCasesMap', data, layout, config)
+        var layout = {
+            mapbox: {
+                style: "streets", 
+                center: {
+                    lon: -98.5795, 
+                    lat: 39.8283}, 
+                    zoom: 3
+                },
+            margin:{ r: 0, t: 0, b: 0, l: 0 },
+        };
+        
+        var config = {mapboxAccessToken: API_KEY};
+        
+        Plotly.newPlot('usCasesMap', data, layout, config)
          
     }); 
 };
@@ -372,13 +384,17 @@ function usScatter(){
                 title: "Number of Cases"
             },
             legend: {
-
-            }
+                x: 1,
+                xanchor: 'right',
+                y: 1
+              }
         }; 
           
-          var data = [trace1, trace2];
+        var data = [trace1, trace2];
+
+        var config = {responsive: true}; 
           
-          Plotly.newPlot('usScatterPlot', data, layout);
+        Plotly.newPlot('usScatterPlot', data, layout, config);
 
     });
 };
@@ -411,8 +427,10 @@ function usDailyCasesSeries() {
             title: 'Total Cases'
             }
           };
+
+        var config = {responsive: true}
     
-        Plotly.newPlot('calendarChart', timeSeriesData, layout);
+        Plotly.newPlot('calendarChart', timeSeriesData, layout, config);
 
     });
 
