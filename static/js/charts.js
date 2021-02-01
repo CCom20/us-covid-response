@@ -207,7 +207,6 @@ function stateBar() {
 
 function usDailyCases(){
     d3.json(`${dailyCases}`, function(data){
-        console.log(data);
 
         var usCases = 0;
         var worstDate = "";
