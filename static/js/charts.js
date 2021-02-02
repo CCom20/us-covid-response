@@ -409,11 +409,11 @@ function filteredTable() {
 
             if (item.state == stateSelected) {
 
-                stateRow.append('td').text(item.population)
-                stateRow.append('td').text(item.cases)
-                stateRow.append('td').text(item.deaths)
-                stateRow.append('td').text(item.total_distributed)
-                stateRow.append('td').text(item.total_administered)
+                stateRow.append('td').text((item.population).toLocaleString('en-US'))
+                stateRow.append('td').text((item.cases).toLocaleString('en-US'))
+                stateRow.append('td').text((item.deaths).toLocaleString('en-US'))
+                stateRow.append('td').text((item.total_distributed).toLocaleString('en-US'))
+                stateRow.append('td').text((item.total_administered).toLocaleString('en-US'))
                 stateRow.append('td').text(item.percent_vaccinated)
                 stateRow.append('td').text(item.est_percent_infected_to_date)
                 stateRow.append('td').text(item.est_percent_immune)
