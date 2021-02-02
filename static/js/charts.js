@@ -241,7 +241,8 @@ function usDailyCases(){
             }
         });
 
-        d3.select("#worstWeek").append("p").text(`The U.S. saw the most cases on ${worstDate}.`)
+        var weekDate = worstDate.split(",")[0]
+        d3.select("#worstWeek").append("p").text(`The U.S. saw the most cases on ${weekDate}.`)
     });
 };
 
