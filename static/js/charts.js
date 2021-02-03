@@ -76,7 +76,7 @@ function usCasesMap(){
             var mapData = data.map((item) => item.deaths)
         }
         else if (mapFilter === 'Vaccines Distributed') {
-            var mapData = data.map((item) => item.deaths)
+            var mapData = data.map((item) => item.total_distributed)
         }
         else if (mapFilter === 'Est. Percent Immune') {
             var mapData = data.map((item) => item.est_percent_immune)
