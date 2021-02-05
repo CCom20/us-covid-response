@@ -265,7 +265,7 @@ function stateLineChart(){
             });
 
         var trace1 = {
-            x: stateData.map(item => new Date(item.date)),
+            x: stateData.map(item => new Date(item.date).toLocaleString('en-US').split(",")[0]),
             y: stateData.map(item => item.cases),
             type: 'scatter',
             marker: {
@@ -278,7 +278,8 @@ function stateLineChart(){
         var layout = {
             title: `${stateSelected} Cumulitive Cases Over Time`,
             xaxis: {
-                title: 'Date'
+                title: 'Date',
+                tickangle: 45
                 },
             yaxis: {
             title: 'Total Cases'
