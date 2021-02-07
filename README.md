@@ -51,4 +51,8 @@ Below is a provided outline for finding folders and data.
 - app.py
     - The start of the API for providing access to data.
 - index.html
-    - The main landing page for the dashboard. 
+    - The main landing page for the dashboard.
+
+### API
+
+There is a *small* API that I wanted to launch here: [COVID Dashboard API](https://ccomstock-covid-dashboard.herokuapp.com/). You can also look at that repository here: [COVID API Repo](https://github.com/CCom20/covid-app). 
