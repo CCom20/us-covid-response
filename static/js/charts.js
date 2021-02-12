@@ -237,11 +237,12 @@ function usDailyCases(){
             
             if (item.daily_new_cases > usCases) {
                 usCases = item.daily_new_cases; 
-                worstDate = new Date(item.date).toLocaleString('en-US');
+                worstDate = new Date(item.date).toLocaleString("en-US");
             }
         });
 
-        var weekDate = worstDate.split(",")[0]
+        var weekDate = worstDate.split(",")[0]; 
+
         d3.select("#worstWeek").append("p").text(`The U.S. saw the most cases on ${weekDate}.`)
     });
 };
