@@ -195,8 +195,10 @@ function usDailyCasesSeries() {
 
     d3.json(dailyCases, function(data) {
 
+        console.log(data);
+
         var trace1 = {
-            x: data.map((item) => new Date(item.date)),
+            x: data.map((item) => (item.date)),
             y: data.map((item) => item.daily_new_cases),
             type: 'bar',
             marker: {
@@ -237,7 +239,7 @@ function usDailyCases(){
             
             if (item.daily_new_cases > usCases) {
                 usCases = item.daily_new_cases; 
-                worstDate = new Date(item.date).toLocaleString("en-US");
+                worstDate = item.date;
             }
         });
 
@@ -266,7 +268,7 @@ function stateLineChart(){
             });
 
         var trace1 = {
-            x: stateData.map(item => new Date(item.date).toLocaleString('en-US').split(",")[0]),
+            x: stateData.map(item => item.date),
             y: stateData.map(item => item.cases),
             type: 'scatter',
             marker: {
