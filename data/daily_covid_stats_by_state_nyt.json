@@ -12910,7 +12910,7 @@
 {"date":"2020-10-23","state":"Mississippi","fips":"28","cases":"113876","deaths":"3238"}
 {"date":"2020-10-23","state":"Missouri","fips":"29","cases":"171871","deaths":"2764"}
 {"date":"2020-10-23","state":"Montana","fips":"30","cases":"26600","deaths":"283"}
-{"date":"2020-10-23","state":"Nebraska","fips":"31","cases":"62511","deaths":"594"}
+{"date":"2020-10-23","state":"Nebraska","fips":"31","cases":"62677","deaths":"598"}
 {"date":"2020-10-23","state":"Nevada","fips":"32","cases":"94044","deaths":"1739"}
 {"date":"2020-10-23","state":"New Hampshire","fips":"33","cases":"10112","deaths":"471"}
 {"date":"2020-10-23","state":"New Jersey","fips":"34","cases":"227219","deaths":"16273"}
@@ -12965,7 +12965,7 @@
 {"date":"2020-10-24","state":"Mississippi","fips":"28","cases":"115088","deaths":"3255"}
 {"date":"2020-10-24","state":"Missouri","fips":"29","cases":"173746","deaths":"2854"}
 {"date":"2020-10-24","state":"Montana","fips":"30","cases":"27149","deaths":"295"}
-{"date":"2020-10-24","state":"Nebraska","fips":"31","cases":"63215","deaths":"603"}
+{"date":"2020-10-24","state":"Nebraska","fips":"31","cases":"63264","deaths":"607"}
 {"date":"2020-10-24","state":"Nevada","fips":"32","cases":"94935","deaths":"1746"}
 {"date":"2020-10-24","state":"New Hampshire","fips":"33","cases":"10238","deaths":"473"}
 {"date":"2020-10-24","state":"New Jersey","fips":"34","cases":"229128","deaths":"16281"}
@@ -13020,7 +13020,7 @@
 {"date":"2020-10-25","state":"Mississippi","fips":"28","cases":"115088","deaths":"3255"}
 {"date":"2020-10-25","state":"Missouri","fips":"29","cases":"175243","deaths":"2857"}
 {"date":"2020-10-25","state":"Montana","fips":"30","cases":"27880","deaths":"298"}
-{"date":"2020-10-25","state":"Nebraska","fips":"31","cases":"63797","deaths":"604"}
+{"date":"2020-10-25","state":"Nebraska","fips":"31","cases":"63849","deaths":"608"}
 {"date":"2020-10-25","state":"Nevada","fips":"32","cases":"95798","deaths":"1748"}
 {"date":"2020-10-25","state":"New Hampshire","fips":"33","cases":"10328","deaths":"473"}
 {"date":"2020-10-25","state":"New Jersey","fips":"34","cases":"230257","deaths":"16285"}
@@ -13075,7 +13075,7 @@
 {"date":"2020-10-26","state":"Mississippi","fips":"28","cases":"115763","deaths":"3263"}
 {"date":"2020-10-26","state":"Missouri","fips":"29","cases":"177733","deaths":"2869"}
 {"date":"2020-10-26","state":"Montana","fips":"30","cases":"28580","deaths":"304"}
-{"date":"2020-10-26","state":"Nebraska","fips":"31","cases":"64506","deaths":"609"}
+{"date":"2020-10-26","state":"Nebraska","fips":"31","cases":"64692","deaths":"612"}
 {"date":"2020-10-26","state":"Nevada","fips":"32","cases":"96330","deaths":"1751"}
 {"date":"2020-10-26","state":"New Hampshire","fips":"33","cases":"10397","deaths":"475"}
 {"date":"2020-10-26","state":"New Jersey","fips":"34","cases":"231473","deaths":"16292"}
@@ -13130,7 +13130,7 @@
 {"date":"2020-10-27","state":"Mississippi","fips":"28","cases":"116617","deaths":"3283"}
 {"date":"2020-10-27","state":"Missouri","fips":"29","cases":"179457","deaths":"2912"}
 {"date":"2020-10-27","state":"Montana","fips":"30","cases":"29422","deaths":"309"}
-{"date":"2020-10-27","state":"Nebraska","fips":"31","cases":"65376","deaths":"623"}
+{"date":"2020-10-27","state":"Nebraska","fips":"31","cases":"65552","deaths":"626"}
 {"date":"2020-10-27","state":"Nevada","fips":"32","cases":"97138","deaths":"1757"}
 {"date":"2020-10-27","state":"New Hampshire","fips":"33","cases":"10530","deaths":"475"}
 {"date":"2020-10-27","state":"New Jersey","fips":"34","cases":"233120","deaths":"16306"}
@@ -13185,7 +13185,7 @@
 {"date":"2020-10-28","state":"Mississippi","fips":"28","cases":"117617","deaths":"3302"}
 {"date":"2020-10-28","state":"Missouri","fips":"29","cases":"181877","deaths":"2940"}
 {"date":"2020-10-28","state":"Montana","fips":"30","cases":"30051","deaths":"326"}
-{"date":"2020-10-28","state":"Nebraska","fips":"31","cases":"66545","deaths":"629"}
+{"date":"2020-10-28","state":"Nebraska","fips":"31","cases":"66682","deaths":"634"}
 {"date":"2020-10-28","state":"Nevada","fips":"32","cases":"97824","deaths":"1767"}
 {"date":"2020-10-28","state":"New Hampshire","fips":"33","cases":"10641","deaths":"478"}
 {"date":"2020-10-28","state":"New Jersey","fips":"34","cases":"234790","deaths":"16324"}
@@ -13240,7 +13240,7 @@
 {"date":"2020-10-29","state":"Mississippi","fips":"28","cases":"118587","deaths":"3310"}
 {"date":"2020-10-29","state":"Missouri","fips":"29","cases":"184847","deaths":"2978"}
 {"date":"2020-10-29","state":"Montana","fips":"30","cases":"30932","deaths":"339"}
-{"date":"2020-10-29","state":"Nebraska","fips":"31","cases":"68150","deaths":"641"}
+{"date":"2020-10-29","state":"Nebraska","fips":"31","cases":"68150","deaths":"646"}
 {"date":"2020-10-29","state":"Nevada","fips":"32","cases":"98814","deaths":"1770"}
 {"date":"2020-10-29","state":"New Hampshire","fips":"33","cases":"10768","deaths":"482"}
 {"date":"2020-10-29","state":"New Jersey","fips":"34","cases":"236340","deaths":"16332"}
@@ -13295,7 +13295,7 @@
 {"date":"2020-10-30","state":"Mississippi","fips":"28","cases":"119336","deaths":"3328"}
 {"date":"2020-10-30","state":"Missouri","fips":"29","cases":"187830","deaths":"3014"}
 {"date":"2020-10-30","state":"Montana","fips":"30","cases":"31995","deaths":"368"}
-{"date":"2020-10-30","state":"Nebraska","fips":"31","cases":"69645","deaths":"646"}
+{"date":"2020-10-30","state":"Nebraska","fips":"31","cases":"69699","deaths":"648"}
 {"date":"2020-10-30","state":"Nevada","fips":"32","cases":"100038","deaths":"1777"}
 {"date":"2020-10-30","state":"New Hampshire","fips":"33","cases":"10884","deaths":"482"}
 {"date":"2020-10-30","state":"New Jersey","fips":"34","cases":"238316","deaths":"16339"}
@@ -13350,7 +13350,7 @@
 {"date":"2020-10-31","state":"Mississippi","fips":"28","cases":"120160","deaths":"3334"}
 {"date":"2020-10-31","state":"Missouri","fips":"29","cases":"189925","deaths":"3090"}
 {"date":"2020-10-31","state":"Montana","fips":"30","cases":"32801","deaths":"377"}
-{"date":"2020-10-31","state":"Nebraska","fips":"31","cases":"70732","deaths":"652"}
+{"date":"2020-10-31","state":"Nebraska","fips":"31","cases":"70761","deaths":"654"}
 {"date":"2020-10-31","state":"Nevada","fips":"32","cases":"100844","deaths":"1779"}
 {"date":"2020-10-31","state":"New Hampshire","fips":"33","cases":"11084","deaths":"483"}
 {"date":"2020-10-31","state":"New Jersey","fips":"34","cases":"239679","deaths":"16350"}
@@ -13405,7 +13405,7 @@
 {"date":"2020-11-01","state":"Mississippi","fips":"28","cases":"120500","deaths":"3348"}
 {"date":"2020-11-01","state":"Missouri","fips":"29","cases":"192141","deaths":"3091"}
 {"date":"2020-11-01","state":"Montana","fips":"30","cases":"33495","deaths":"378"}
-{"date":"2020-11-01","state":"Nebraska","fips":"31","cases":"71666","deaths":"658"}
+{"date":"2020-11-01","state":"Nebraska","fips":"31","cases":"71666","deaths":"661"}
 {"date":"2020-11-01","state":"Nevada","fips":"32","cases":"101594","deaths":"1783"}
 {"date":"2020-11-01","state":"New Hampshire","fips":"33","cases":"11214","deaths":"483"}
 {"date":"2020-11-01","state":"New Jersey","fips":"34","cases":"241422","deaths":"16354"}
@@ -13460,7 +13460,7 @@
 {"date":"2020-11-02","state":"Mississippi","fips":"28","cases":"120865","deaths":"3348"}
 {"date":"2020-11-02","state":"Missouri","fips":"29","cases":"195938","deaths":"3101"}
 {"date":"2020-11-02","state":"Montana","fips":"30","cases":"34317","deaths":"387"}
-{"date":"2020-11-02","state":"Nebraska","fips":"31","cases":"72631","deaths":"659"}
+{"date":"2020-11-02","state":"Nebraska","fips":"31","cases":"72905","deaths":"662"}
 {"date":"2020-11-02","state":"Nevada","fips":"32","cases":"102243","deaths":"1785"}
 {"date":"2020-11-02","state":"New Hampshire","fips":"33","cases":"11320","deaths":"483"}
 {"date":"2020-11-02","state":"New Jersey","fips":"34","cases":"242790","deaths":"16357"}
@@ -13515,7 +13515,7 @@
 {"date":"2020-11-03","state":"Mississippi","fips":"28","cases":"121509","deaths":"3384"}
 {"date":"2020-11-03","state":"Missouri","fips":"29","cases":"198312","deaths":"3136"}
 {"date":"2020-11-03","state":"Montana","fips":"30","cases":"35222","deaths":"400"}
-{"date":"2020-11-03","state":"Nebraska","fips":"31","cases":"74060","deaths":"662"}
+{"date":"2020-11-03","state":"Nebraska","fips":"31","cases":"74120","deaths":"665"}
 {"date":"2020-11-03","state":"Nevada","fips":"32","cases":"103305","deaths":"1807"}
 {"date":"2020-11-03","state":"New Hampshire","fips":"33","cases":"11448","deaths":"483"}
 {"date":"2020-11-03","state":"New Jersey","fips":"34","cases":"244614","deaths":"16371"}
@@ -13570,7 +13570,7 @@
 {"date":"2020-11-04","state":"Mississippi","fips":"28","cases":"122275","deaths":"3397"}
 {"date":"2020-11-04","state":"Missouri","fips":"29","cases":"201515","deaths":"3166"}
 {"date":"2020-11-04","state":"Montana","fips":"30","cases":"36012","deaths":"404"}
-{"date":"2020-11-04","state":"Nebraska","fips":"31","cases":"75888","deaths":"673"}
+{"date":"2020-11-04","state":"Nebraska","fips":"31","cases":"76145","deaths":"676"}
 {"date":"2020-11-04","state":"Nevada","fips":"32","cases":"104514","deaths":"1816"}
 {"date":"2020-11-04","state":"New Hampshire","fips":"33","cases":"11563","deaths":"484"}
 {"date":"2020-11-04","state":"New Jersey","fips":"34","cases":"247057","deaths":"16391"}
@@ -13625,7 +13625,7 @@
 {"date":"2020-11-05","state":"Mississippi","fips":"28","cases":"123887","deaths":"3405"}
 {"date":"2020-11-05","state":"Missouri","fips":"29","cases":"205036","deaths":"3197"}
 {"date":"2020-11-05","state":"Montana","fips":"30","cases":"37024","deaths":"409"}
-{"date":"2020-11-05","state":"Nebraska","fips":"31","cases":"78012","deaths":"678"}
+{"date":"2020-11-05","state":"Nebraska","fips":"31","cases":"78061","deaths":"681"}
 {"date":"2020-11-05","state":"Nevada","fips":"32","cases":"105706","deaths":"1825"}
 {"date":"2020-11-05","state":"New Hampshire","fips":"33","cases":"11808","deaths":"486"}
 {"date":"2020-11-05","state":"New Jersey","fips":"34","cases":"249019","deaths":"16403"}
@@ -13680,7 +13680,7 @@
 {"date":"2020-11-06","state":"Mississippi","fips":"28","cases":"124854","deaths":"3419"}
 {"date":"2020-11-06","state":"Missouri","fips":"29","cases":"210054","deaths":"3217"}
 {"date":"2020-11-06","state":"Montana","fips":"30","cases":"38012","deaths":"420"}
-{"date":"2020-11-06","state":"Nebraska","fips":"31","cases":"80693","deaths":"705"}
+{"date":"2020-11-06","state":"Nebraska","fips":"31","cases":"80693","deaths":"710"}
 {"date":"2020-11-06","state":"Nevada","fips":"32","cases":"107258","deaths":"1846"}
 {"date":"2020-11-06","state":"New Hampshire","fips":"33","cases":"12012","deaths":"488"}
 {"date":"2020-11-06","state":"New Jersey","fips":"34","cases":"251180","deaths":"16416"}
@@ -13735,7 +13735,7 @@
 {"date":"2020-11-07","state":"Mississippi","fips":"28","cases":"125885","deaths":"3433"}
 {"date":"2020-11-07","state":"Missouri","fips":"29","cases":"213645","deaths":"3235"}
 {"date":"2020-11-07","state":"Montana","fips":"30","cases":"38948","deaths":"445"}
-{"date":"2020-11-07","state":"Nebraska","fips":"31","cases":"82395","deaths":"710"}
+{"date":"2020-11-07","state":"Nebraska","fips":"31","cases":"82395","deaths":"715"}
 {"date":"2020-11-07","state":"Nevada","fips":"32","cases":"109326","deaths":"1851"}
 {"date":"2020-11-07","state":"New Hampshire","fips":"33","cases":"12241","deaths":"489"}
 {"date":"2020-11-07","state":"New Jersey","fips":"34","cases":"254382","deaths":"16425"}
@@ -13790,7 +13790,7 @@
 {"date":"2020-11-08","state":"Mississippi","fips":"28","cases":"126689","deaths":"3443"}
 {"date":"2020-11-08","state":"Missouri","fips":"29","cases":"216654","deaths":"3238"}
 {"date":"2020-11-08","state":"Montana","fips":"30","cases":"39679","deaths":"456"}
-{"date":"2020-11-08","state":"Nebraska","fips":"31","cases":"83969","deaths":"710"}
+{"date":"2020-11-08","state":"Nebraska","fips":"31","cases":"83969","deaths":"715"}
 {"date":"2020-11-08","state":"Nevada","fips":"32","cases":"110308","deaths":"1852"}
 {"date":"2020-11-08","state":"New Hampshire","fips":"33","cases":"12488","deaths":"489"}
 {"date":"2020-11-08","state":"New Jersey","fips":"34","cases":"256395","deaths":"16429"}
@@ -13845,7 +13845,7 @@
 {"date":"2020-11-09","state":"Mississippi","fips":"28","cases":"127205","deaths":"3443"}
 {"date":"2020-11-09","state":"Missouri","fips":"29","cases":"221874","deaths":"3241"}
 {"date":"2020-11-09","state":"Montana","fips":"30","cases":"40118","deaths":"463"}
-{"date":"2020-11-09","state":"Nebraska","fips":"31","cases":"85551","deaths":"714"}
+{"date":"2020-11-09","state":"Nebraska","fips":"31","cases":"85551","deaths":"719"}
 {"date":"2020-11-09","state":"Nevada","fips":"32","cases":"111323","deaths":"1853"}
 {"date":"2020-11-09","state":"New Hampshire","fips":"33","cases":"12699","deaths":"489"}
 {"date":"2020-11-09","state":"New Jersey","fips":"34","cases":"258453","deaths":"16440"}
@@ -13900,7 +13900,7 @@
 {"date":"2020-11-10","state":"Mississippi","fips":"28","cases":"128138","deaths":"3480"}
 {"date":"2020-11-10","state":"Missouri","fips":"29","cases":"226372","deaths":"3375"}
 {"date":"2020-11-10","state":"Montana","fips":"30","cases":"41219","deaths":"468"}
-{"date":"2020-11-10","state":"Nebraska","fips":"31","cases":"87733","deaths":"741"}
+{"date":"2020-11-10","state":"Nebraska","fips":"31","cases":"87743","deaths":"745"}
 {"date":"2020-11-10","state":"Nevada","fips":"32","cases":"112602","deaths":"1863"}
 {"date":"2020-11-10","state":"New Hampshire","fips":"33","cases":"12919","deaths":"489"}
 {"date":"2020-11-10","state":"New Jersey","fips":"34","cases":"262230","deaths":"16461"}
@@ -13955,7 +13955,7 @@
 {"date":"2020-11-11","state":"Mississippi","fips":"28","cases":"129394","deaths":"3497"}
 {"date":"2020-11-11","state":"Missouri","fips":"29","cases":"230003","deaths":"3411"}
 {"date":"2020-11-11","state":"Montana","fips":"30","cases":"42132","deaths":"475"}
-{"date":"2020-11-11","state":"Nebraska","fips":"31","cases":"89942","deaths":"741"}
+{"date":"2020-11-11","state":"Nebraska","fips":"31","cases":"89977","deaths":"745"}
 {"date":"2020-11-11","state":"Nevada","fips":"32","cases":"113856","deaths":"1877"}
 {"date":"2020-11-11","state":"New Hampshire","fips":"33","cases":"13148","deaths":"492"}
 {"date":"2020-11-11","state":"New Jersey","fips":"34","cases":"265295","deaths":"16476"}
@@ -14010,7 +14010,7 @@
 {"date":"2020-11-12","state":"Mississippi","fips":"28","cases":"130665","deaths":"3514"}
 {"date":"2020-11-12","state":"Missouri","fips":"29","cases":"235341","deaths":"3441"}
 {"date":"2020-11-12","state":"Montana","fips":"30","cases":"43084","deaths":"478"}
-{"date":"2020-11-12","state":"Nebraska","fips":"31","cases":"92553","deaths":"768"}
+{"date":"2020-11-12","state":"Nebraska","fips":"31","cases":"92737","deaths":"772"}
 {"date":"2020-11-12","state":"Nevada","fips":"32","cases":"115360","deaths":"1880"}
 {"date":"2020-11-12","state":"New Hampshire","fips":"33","cases":"13470","deaths":"495"}
 {"date":"2020-11-12","state":"New Jersey","fips":"34","cases":"268787","deaths":"16495"}
@@ -14065,7 +14065,7 @@
 {"date":"2020-11-13","state":"Mississippi","fips":"28","cases":"131970","deaths":"3519"}
 {"date":"2020-11-13","state":"Missouri","fips":"29","cases":"241236","deaths":"3452"}
 {"date":"2020-11-13","state":"Montana","fips":"30","cases":"44297","deaths":"483"}
-{"date":"2020-11-13","state":"Nebraska","fips":"31","cases":"94922","deaths":"789"}
+{"date":"2020-11-13","state":"Nebraska","fips":"31","cases":"95010","deaths":"794"}
 {"date":"2020-11-13","state":"Nevada","fips":"32","cases":"117322","deaths":"1896"}
 {"date":"2020-11-13","state":"New Hampshire","fips":"33","cases":"13929","deaths":"498"}
 {"date":"2020-11-13","state":"New Jersey","fips":"34","cases":"272184","deaths":"16522"}
@@ -14120,7 +14120,7 @@
 {"date":"2020-11-14","state":"Mississippi","fips":"28","cases":"133340","deaths":"3540"}
 {"date":"2020-11-14","state":"Missouri","fips":"29","cases":"248400","deaths":"3463"}
 {"date":"2020-11-14","state":"Montana","fips":"30","cases":"45919","deaths":"519"}
-{"date":"2020-11-14","state":"Nebraska","fips":"31","cases":"96834","deaths":"790"}
+{"date":"2020-11-14","state":"Nebraska","fips":"31","cases":"96834","deaths":"795"}
 {"date":"2020-11-14","state":"Nevada","fips":"32","cases":"119228","deaths":"1908"}
 {"date":"2020-11-14","state":"New Hampshire","fips":"33","cases":"14311","deaths":"499"}
 {"date":"2020-11-14","state":"New Jersey","fips":"34","cases":"276537","deaths":"16548"}
@@ -14175,7 +14175,7 @@
 {"date":"2020-11-15","state":"Mississippi","fips":"28","cases":"134309","deaths":"3543"}
 {"date":"2020-11-15","state":"Missouri","fips":"29","cases":"249608","deaths":"3463"}
 {"date":"2020-11-15","state":"Montana","fips":"30","cases":"47158","deaths":"525"}
-{"date":"2020-11-15","state":"Nebraska","fips":"31","cases":"98161","deaths":"791"}
+{"date":"2020-11-15","state":"Nebraska","fips":"31","cases":"98161","deaths":"796"}
 {"date":"2020-11-15","state":"Nevada","fips":"32","cases":"120744","deaths":"1913"}
 {"date":"2020-11-15","state":"New Hampshire","fips":"33","cases":"14671","deaths":"499"}
 {"date":"2020-11-15","state":"New Jersey","fips":"34","cases":"281075","deaths":"16566"}
@@ -14230,7 +14230,7 @@
 {"date":"2020-11-16","state":"Mississippi","fips":"28","cases":"134898","deaths":"3545"}
 {"date":"2020-11-16","state":"Missouri","fips":"29","cases":"255942","deaths":"3485"}
 {"date":"2020-11-16","state":"Montana","fips":"30","cases":"48101","deaths":"528"}
-{"date":"2020-11-16","state":"Nebraska","fips":"31","cases":"101601","deaths":"805"}
+{"date":"2020-11-16","state":"Nebraska","fips":"31","cases":"101707","deaths":"810"}
 {"date":"2020-11-16","state":"Nevada","fips":"32","cases":"122441","deaths":"1919"}
 {"date":"2020-11-16","state":"New Hampshire","fips":"33","cases":"15029","deaths":"500"}
 {"date":"2020-11-16","state":"New Jersey","fips":"34","cases":"283294","deaths":"16580"}
@@ -14285,7 +14285,7 @@
 {"date":"2020-11-17","state":"Mississippi","fips":"28","cases":"135803","deaths":"3581"}
 {"date":"2020-11-17","state":"Missouri","fips":"29","cases":"261105","deaths":"3552"}
 {"date":"2020-11-17","state":"Montana","fips":"30","cases":"49496","deaths":"548"}
-{"date":"2020-11-17","state":"Nebraska","fips":"31","cases":"103805","deaths":"827"}
+{"date":"2020-11-17","state":"Nebraska","fips":"31","cases":"103805","deaths":"832"}
 {"date":"2020-11-17","state":"Nevada","fips":"32","cases":"124082","deaths":"1946"}
 {"date":"2020-11-17","state":"New Hampshire","fips":"33","cases":"15303","deaths":"502"}
 {"date":"2020-11-17","state":"New Jersey","fips":"34","cases":"287320","deaths":"16618"}
@@ -14340,7 +14340,7 @@
 {"date":"2020-11-18","state":"Mississippi","fips":"28","cases":"137396","deaths":"3601"}
 {"date":"2020-11-18","state":"Missouri","fips":"29","cases":"266079","deaths":"3591"}
 {"date":"2020-11-18","state":"Montana","fips":"30","cases":"50650","deaths":"568"}
-{"date":"2020-11-18","state":"Nebraska","fips":"31","cases":"106617","deaths":"838"}
+{"date":"2020-11-18","state":"Nebraska","fips":"31","cases":"106617","deaths":"842"}
 {"date":"2020-11-18","state":"Nevada","fips":"32","cases":"126106","deaths":"1947"}
 {"date":"2020-11-18","state":"New Hampshire","fips":"33","cases":"15749","deaths":"504"}
 {"date":"2020-11-18","state":"New Jersey","fips":"34","cases":"291374","deaths":"16655"}
@@ -14395,7 +14395,7 @@
 {"date":"2020-11-19","state":"Mississippi","fips":"28","cases":"138791","deaths":"3619"}
 {"date":"2020-11-19","state":"Missouri","fips":"29","cases":"270387","deaths":"3618"}
 {"date":"2020-11-19","state":"Montana","fips":"30","cases":"51872","deaths":"569"}
-{"date":"2020-11-19","state":"Nebraska","fips":"31","cases":"109280","deaths":"863"}
+{"date":"2020-11-19","state":"Nebraska","fips":"31","cases":"109325","deaths":"866"}
 {"date":"2020-11-19","state":"Nevada","fips":"32","cases":"128234","deaths":"1958"}
 {"date":"2020-11-19","state":"New Hampshire","fips":"33","cases":"16277","deaths":"506"}
 {"date":"2020-11-19","state":"New Jersey","fips":"34","cases":"295556","deaths":"16689"}
@@ -14450,7 +14450,7 @@
 {"date":"2020-11-20","state":"Mississippi","fips":"28","cases":"140429","deaths":"3642"}
 {"date":"2020-11-20","state":"Missouri","fips":"29","cases":"275917","deaths":"3675"}
 {"date":"2020-11-20","state":"Montana","fips":"30","cases":"53346","deaths":"575"}
-{"date":"2020-11-20","state":"Nebraska","fips":"31","cases":"111661","deaths":"917"}
+{"date":"2020-11-20","state":"Nebraska","fips":"31","cases":"111915","deaths":"925"}
 {"date":"2020-11-20","state":"Nevada","fips":"32","cases":"130102","deaths":"1987"}
 {"date":"2020-11-20","state":"New Hampshire","fips":"33","cases":"16797","deaths":"507"}
 {"date":"2020-11-20","state":"New Jersey","fips":"34","cases":"299182","deaths":"16712"}
@@ -14505,7 +14505,7 @@
 {"date":"2020-11-21","state":"Mississippi","fips":"28","cases":"142401","deaths":"3657"}
 {"date":"2020-11-21","state":"Missouri","fips":"29","cases":"279987","deaths":"3684"}
 {"date":"2020-11-21","state":"Montana","fips":"30","cases":"54542","deaths":"604"}
-{"date":"2020-11-21","state":"Nebraska","fips":"31","cases":"113029","deaths":"929"}
+{"date":"2020-11-21","state":"Nebraska","fips":"31","cases":"113225","deaths":"933"}
 {"date":"2020-11-21","state":"Nevada","fips":"32","cases":"132610","deaths":"2017"}
 {"date":"2020-11-21","state":"New Hampshire","fips":"33","cases":"17281","deaths":"508"}
 {"date":"2020-11-21","state":"New Jersey","fips":"34","cases":"303851","deaths":"16746"}
@@ -14560,7 +14560,7 @@
 {"date":"2020-11-22","state":"Mississippi","fips":"28","cases":"143180","deaths":"3676"}
 {"date":"2020-11-22","state":"Missouri","fips":"29","cases":"283756","deaths":"3688"}
 {"date":"2020-11-22","state":"Montana","fips":"30","cases":"55680","deaths":"607"}
-{"date":"2020-11-22","state":"Nebraska","fips":"31","cases":"114061","deaths":"933"}
+{"date":"2020-11-22","state":"Nebraska","fips":"31","cases":"114061","deaths":"937"}
 {"date":"2020-11-22","state":"Nevada","fips":"32","cases":"134761","deaths":"2022"}
 {"date":"2020-11-22","state":"New Hampshire","fips":"33","cases":"17598","deaths":"512"}
 {"date":"2020-11-22","state":"New Jersey","fips":"34","cases":"307819","deaths":"16761"}
@@ -14615,7 +14615,7 @@
 {"date":"2020-11-23","state":"Mississippi","fips":"28","cases":"143879","deaths":"3676"}
 {"date":"2020-11-23","state":"Missouri","fips":"29","cases":"288308","deaths":"3697"}
 {"date":"2020-11-23","state":"Montana","fips":"30","cases":"56428","deaths":"615"}
-{"date":"2020-11-23","state":"Nebraska","fips":"31","cases":"115921","deaths":"958"}
+{"date":"2020-11-23","state":"Nebraska","fips":"31","cases":"116434","deaths":"962"}
 {"date":"2020-11-23","state":"Nevada","fips":"32","cases":"136672","deaths":"2030"}
 {"date":"2020-11-23","state":"New Hampshire","fips":"33","cases":"18042","deaths":"512"}
 {"date":"2020-11-23","state":"New Jersey","fips":"34","cases":"311400","deaths":"16772"}
@@ -14670,7 +14670,7 @@
 {"date":"2020-11-24","state":"Mississippi","fips":"28","cases":"144544","deaths":"3729"}
 {"date":"2020-11-24","state":"Missouri","fips":"29","cases":"292786","deaths":"3869"}
 {"date":"2020-11-24","state":"Montana","fips":"30","cases":"57559","deaths":"630"}
-{"date":"2020-11-24","state":"Nebraska","fips":"31","cases":"117682","deaths":"981"}
+{"date":"2020-11-24","state":"Nebraska","fips":"31","cases":"117929","deaths":"985"}
 {"date":"2020-11-24","state":"Nevada","fips":"32","cases":"140572","deaths":"2053"}
 {"date":"2020-11-24","state":"New Hampshire","fips":"33","cases":"18382","deaths":"513"}
 {"date":"2020-11-24","state":"New Jersey","fips":"34","cases":"315675","deaths":"16819"}
@@ -14725,7 +14725,7 @@
 {"date":"2020-11-25","state":"Mississippi","fips":"28","cases":"145636","deaths":"3745"}
 {"date":"2020-11-25","state":"Missouri","fips":"29","cases":"297374","deaths":"3908"}
 {"date":"2020-11-25","state":"Montana","fips":"30","cases":"58620","deaths":"653"}
-{"date":"2020-11-25","state":"Nebraska","fips":"31","cases":"120076","deaths":"1004"}
+{"date":"2020-11-25","state":"Nebraska","fips":"31","cases":"120459","deaths":"1008"}
 {"date":"2020-11-25","state":"Nevada","fips":"32","cases":"142951","deaths":"2077"}
 {"date":"2020-11-25","state":"New Hampshire","fips":"33","cases":"18776","deaths":"514"}
 {"date":"2020-11-25","state":"New Jersey","fips":"34","cases":"319734","deaths":"16886"}
@@ -14780,7 +14780,7 @@
 {"date":"2020-11-26","state":"Mississippi","fips":"28","cases":"147382","deaths":"3763"}
 {"date":"2020-11-26","state":"Missouri","fips":"29","cases":"300825","deaths":"3932"}
 {"date":"2020-11-26","state":"Montana","fips":"30","cases":"59682","deaths":"658"}
-{"date":"2020-11-26","state":"Nebraska","fips":"31","cases":"122952","deaths":"1008"}
+{"date":"2020-11-26","state":"Nebraska","fips":"31","cases":"123124","deaths":"1011"}
 {"date":"2020-11-26","state":"Nevada","fips":"32","cases":"144794","deaths":"2093"}
 {"date":"2020-11-26","state":"New Hampshire","fips":"33","cases":"18776","deaths":"514"}
 {"date":"2020-11-26","state":"New Jersey","fips":"34","cases":"324207","deaths":"16925"}
@@ -14835,7 +14835,7 @@
 {"date":"2020-11-27","state":"Mississippi","fips":"28","cases":"148387","deaths":"3769"}
 {"date":"2020-11-27","state":"Missouri","fips":"29","cases":"304234","deaths":"3943"}
 {"date":"2020-11-27","state":"Montana","fips":"30","cases":"59796","deaths":"658"}
-{"date":"2020-11-27","state":"Nebraska","fips":"31","cases":"124068","deaths":"1014"}
+{"date":"2020-11-27","state":"Nebraska","fips":"31","cases":"124664","deaths":"1017"}
 {"date":"2020-11-27","state":"Nevada","fips":"32","cases":"147145","deaths":"2103"}
 {"date":"2020-11-27","state":"New Hampshire","fips":"33","cases":"19313","deaths":"517"}
 {"date":"2020-11-27","state":"New Jersey","fips":"34","cases":"328302","deaths":"16942"}
@@ -14890,7 +14890,7 @@
 {"date":"2020-11-28","state":"Mississippi","fips":"28","cases":"149940","deaths":"3779"}
 {"date":"2020-11-28","state":"Missouri","fips":"29","cases":"306526","deaths":"3950"}
 {"date":"2020-11-28","state":"Montana","fips":"30","cases":"60845","deaths":"670"}
-{"date":"2020-11-28","state":"Nebraska","fips":"31","cases":"125323","deaths":"1018"}
+{"date":"2020-11-28","state":"Nebraska","fips":"31","cases":"125820","deaths":"1021"}
 {"date":"2020-11-28","state":"Nevada","fips":"32","cases":"149613","deaths":"2123"}
 {"date":"2020-11-28","state":"New Hampshire","fips":"33","cases":"20002","deaths":"523"}
 {"date":"2020-11-28","state":"New Jersey","fips":"34","cases":"332104","deaths":"16965"}
@@ -14945,7 +14945,7 @@
 {"date":"2020-11-29","state":"Mississippi","fips":"28","cases":"151785","deaths":"3806"}
 {"date":"2020-11-29","state":"Missouri","fips":"29","cases":"309420","deaths":"3956"}
 {"date":"2020-11-29","state":"Montana","fips":"30","cases":"61801","deaths":"672"}
-{"date":"2020-11-29","state":"Nebraska","fips":"31","cases":"126491","deaths":"1022"}
+{"date":"2020-11-29","state":"Nebraska","fips":"31","cases":"127022","deaths":"1025"}
 {"date":"2020-11-29","state":"Nevada","fips":"32","cases":"150825","deaths":"2140"}
 {"date":"2020-11-29","state":"New Hampshire","fips":"33","cases":"20480","deaths":"526"}
 {"date":"2020-11-29","state":"New Jersey","fips":"34","cases":"335943","deaths":"16978"}
@@ -15000,7 +15000,7 @@
 {"date":"2020-11-30","state":"Mississippi","fips":"28","cases":"153270","deaths":"3807"}
 {"date":"2020-11-30","state":"Missouri","fips":"29","cases":"314981","deaths":"3981"}
 {"date":"2020-11-30","state":"Montana","fips":"30","cases":"62256","deaths":"684"}
-{"date":"2020-11-30","state":"Nebraska","fips":"31","cases":"128433","deaths":"1039"}
+{"date":"2020-11-30","state":"Nebraska","fips":"31","cases":"129043","deaths":"1047"}
 {"date":"2020-11-30","state":"Nevada","fips":"32","cases":"152726","deaths":"2149"}
 {"date":"2020-11-30","state":"New Hampshire","fips":"33","cases":"20994","deaths":"526"}
 {"date":"2020-11-30","state":"New Jersey","fips":"34","cases":"339133","deaths":"16993"}
@@ -15055,7 +15055,7 @@
 {"date":"2020-12-01","state":"Mississippi","fips":"28","cases":"154411","deaths":"3836"}
 {"date":"2020-12-01","state":"Missouri","fips":"29","cases":"317903","deaths":"4130"}
 {"date":"2020-12-01","state":"Montana","fips":"30","cases":"63324","deaths":"700"}
-{"date":"2020-12-01","state":"Nebraska","fips":"31","cases":"130212","deaths":"1086"}
+{"date":"2020-12-01","state":"Nebraska","fips":"31","cases":"130796","deaths":"1092"}
 {"date":"2020-12-01","state":"Nevada","fips":"32","cases":"155312","deaths":"2182"}
 {"date":"2020-12-01","state":"New Hampshire","fips":"33","cases":"21766","deaths":"528"}
 {"date":"2020-12-01","state":"New Jersey","fips":"34","cases":"343739","deaths":"17083"}
@@ -15110,7 +15110,7 @@
 {"date":"2020-12-02","state":"Mississippi","fips":"28","cases":"156868","deaths":"3851"}
 {"date":"2020-12-02","state":"Missouri","fips":"29","cases":"321411","deaths":"4185"}
 {"date":"2020-12-02","state":"Montana","fips":"30","cases":"64399","deaths":"713"}
-{"date":"2020-12-02","state":"Nebraska","fips":"31","cases":"132530","deaths":"1132"}
+{"date":"2020-12-02","state":"Nebraska","fips":"31","cases":"133139","deaths":"1139"}
 {"date":"2020-12-02","state":"Nevada","fips":"32","cases":"157586","deaths":"2225"}
 {"date":"2020-12-02","state":"New Hampshire","fips":"33","cases":"22332","deaths":"537"}
 {"date":"2020-12-02","state":"New Jersey","fips":"34","cases":"348042","deaths":"17145"}
@@ -15165,7 +15165,7 @@
 {"date":"2020-12-03","state":"Mississippi","fips":"28","cases":"159036","deaths":"3879"}
 {"date":"2020-12-03","state":"Missouri","fips":"29","cases":"325519","deaths":"4274"}
 {"date":"2020-12-03","state":"Montana","fips":"30","cases":"65242","deaths":"723"}
-{"date":"2020-12-03","state":"Nebraska","fips":"31","cases":"134710","deaths":"1174"}
+{"date":"2020-12-03","state":"Nebraska","fips":"31","cases":"135123","deaths":"1180"}
 {"date":"2020-12-03","state":"Nevada","fips":"32","cases":"160317","deaths":"2259"}
 {"date":"2020-12-03","state":"New Hampshire","fips":"33","cases":"22925","deaths":"544"}
 {"date":"2020-12-03","state":"New Jersey","fips":"34","cases":"352835","deaths":"17209"}
@@ -15220,7 +15220,7 @@
 {"date":"2020-12-04","state":"Mississippi","fips":"28","cases":"161516","deaths":"3916"}
 {"date":"2020-12-04","state":"Missouri","fips":"29","cases":"330445","deaths":"4375"}
 {"date":"2020-12-04","state":"Montana","fips":"30","cases":"66494","deaths":"728"}
-{"date":"2020-12-04","state":"Nebraska","fips":"31","cases":"136349","deaths":"1199"}
+{"date":"2020-12-04","state":"Nebraska","fips":"31","cases":"136968","deaths":"1205"}
 {"date":"2020-12-04","state":"Nevada","fips":"32","cases":"163065","deaths":"2276"}
 {"date":"2020-12-04","state":"New Hampshire","fips":"33","cases":"23690","deaths":"552"}
 {"date":"2020-12-04","state":"New Jersey","fips":"34","cases":"358498","deaths":"17255"}
@@ -15275,7 +15275,7 @@
 {"date":"2020-12-05","state":"Mississippi","fips":"28","cases":"163458","deaths":"3949"}
 {"date":"2020-12-05","state":"Missouri","fips":"29","cases":"334637","deaths":"4412"}
 {"date":"2020-12-05","state":"Montana","fips":"30","cases":"67092","deaths":"734"}
-{"date":"2020-12-05","state":"Nebraska","fips":"31","cases":"138568","deaths":"1202"}
+{"date":"2020-12-05","state":"Nebraska","fips":"31","cases":"139103","deaths":"1208"}
 {"date":"2020-12-05","state":"Nevada","fips":"32","cases":"166187","deaths":"2309"}
 {"date":"2020-12-05","state":"New Hampshire","fips":"33","cases":"24138","deaths":"559"}
 {"date":"2020-12-05","state":"New Jersey","fips":"34","cases":"363822","deaths":"17306"}
@@ -15330,7 +15330,7 @@
 {"date":"2020-12-06","state":"Mississippi","fips":"28","cases":"164931","deaths":"3961"}
 {"date":"2020-12-06","state":"Missouri","fips":"29","cases":"337927","deaths":"4420"}
 {"date":"2020-12-06","state":"Montana","fips":"30","cases":"67875","deaths":"736"}
-{"date":"2020-12-06","state":"Nebraska","fips":"31","cases":"139834","deaths":"1213"}
+{"date":"2020-12-06","state":"Nebraska","fips":"31","cases":"140318","deaths":"1219"}
 {"date":"2020-12-06","state":"Nevada","fips":"32","cases":"168758","deaths":"2318"}
 {"date":"2020-12-06","state":"New Hampshire","fips":"33","cases":"24771","deaths":"564"}
 {"date":"2020-12-06","state":"New Jersey","fips":"34","cases":"369852","deaths":"17321"}
@@ -15385,7 +15385,7 @@
 {"date":"2020-12-07","state":"Mississippi","fips":"28","cases":"166194","deaths":"3961"}
 {"date":"2020-12-07","state":"Missouri","fips":"29","cases":"342244","deaths":"4452"}
 {"date":"2020-12-07","state":"Montana","fips":"30","cases":"68651","deaths":"743"}
-{"date":"2020-12-07","state":"Nebraska","fips":"31","cases":"141284","deaths":"1244"}
+{"date":"2020-12-07","state":"Nebraska","fips":"31","cases":"141918","deaths":"1251"}
 {"date":"2020-12-07","state":"Nevada","fips":"32","cases":"171159","deaths":"2326"}
 {"date":"2020-12-07","state":"New Hampshire","fips":"33","cases":"25816","deaths":"566"}
 {"date":"2020-12-07","state":"New Jersey","fips":"34","cases":"373415","deaths":"17336"}
@@ -15440,7 +15440,7 @@
 {"date":"2020-12-08","state":"Mississippi","fips":"28","cases":"167926","deaths":"4017"}
 {"date":"2020-12-08","state":"Missouri","fips":"29","cases":"346161","deaths":"4594"}
 {"date":"2020-12-08","state":"Montana","fips":"30","cases":"69465","deaths":"763"}
-{"date":"2020-12-08","state":"Nebraska","fips":"31","cases":"142718","deaths":"1288"}
+{"date":"2020-12-08","state":"Nebraska","fips":"31","cases":"143328","deaths":"1295"}
 {"date":"2020-12-08","state":"Nevada","fips":"32","cases":"174050","deaths":"2368"}
 {"date":"2020-12-08","state":"New Hampshire","fips":"33","cases":"26623","deaths":"566"}
 {"date":"2020-12-08","state":"New Jersey","fips":"34","cases":"378891","deaths":"17426"}
@@ -15495,7 +15495,7 @@
 {"date":"2020-12-09","state":"Mississippi","fips":"28","cases":"170672","deaths":"4041"}
 {"date":"2020-12-09","state":"Missouri","fips":"29","cases":"349046","deaths":"4640"}
 {"date":"2020-12-09","state":"Montana","fips":"30","cases":"70191","deaths":"771"}
-{"date":"2020-12-09","state":"Nebraska","fips":"31","cases":"144087","deaths":"1305"}
+{"date":"2020-12-09","state":"Nebraska","fips":"31","cases":"144755","deaths":"1311"}
 {"date":"2020-12-09","state":"Nevada","fips":"32","cases":"176674","deaths":"2395"}
 {"date":"2020-12-09","state":"New Hampshire","fips":"33","cases":"27592","deaths":"570"}
 {"date":"2020-12-09","state":"New Jersey","fips":"34","cases":"383354","deaths":"17542"}
@@ -15550,7 +15550,7 @@
 {"date":"2020-12-10","state":"Mississippi","fips":"28","cases":"172955","deaths":"4083"}
 {"date":"2020-12-10","state":"Missouri","fips":"29","cases":"353082","deaths":"4690"}
 {"date":"2020-12-10","state":"Montana","fips":"30","cases":"70954","deaths":"786"}
-{"date":"2020-12-10","state":"Nebraska","fips":"31","cases":"145819","deaths":"1348"}
+{"date":"2020-12-10","state":"Nebraska","fips":"31","cases":"146456","deaths":"1358"}
 {"date":"2020-12-10","state":"Nevada","fips":"32","cases":"179409","deaths":"2448"}
 {"date":"2020-12-10","state":"New Hampshire","fips":"33","cases":"28273","deaths":"584"}
 {"date":"2020-12-10","state":"New Jersey","fips":"34","cases":"388474","deaths":"17608"}
@@ -15605,7 +15605,7 @@
 {"date":"2020-12-11","state":"Mississippi","fips":"28","cases":"175282","deaths":"4124"}
 {"date":"2020-12-11","state":"Missouri","fips":"29","cases":"355147","deaths":"4704"}
 {"date":"2020-12-11","state":"Montana","fips":"30","cases":"71931","deaths":"805"}
-{"date":"2020-12-11","state":"Nebraska","fips":"31","cases":"147037","deaths":"1363"}
+{"date":"2020-12-11","state":"Nebraska","fips":"31","cases":"147727","deaths":"1377"}
 {"date":"2020-12-11","state":"Nevada","fips":"32","cases":"181922","deaths":"2488"}
 {"date":"2020-12-11","state":"New Hampshire","fips":"33","cases":"29460","deaths":"590"}
 {"date":"2020-12-11","state":"New Jersey","fips":"34","cases":"392124","deaths":"17662"}
@@ -15660,7 +15660,7 @@
 {"date":"2020-12-12","state":"Mississippi","fips":"28","cases":"177947","deaths":"4180"}
 {"date":"2020-12-12","state":"Missouri","fips":"29","cases":"360623","deaths":"4754"}
 {"date":"2020-12-12","state":"Montana","fips":"30","cases":"72659","deaths":"816"}
-{"date":"2020-12-12","state":"Nebraska","fips":"31","cases":"147792","deaths":"1385"}
+{"date":"2020-12-12","state":"Nebraska","fips":"31","cases":"148467","deaths":"1395"}
 {"date":"2020-12-12","state":"Nevada","fips":"32","cases":"184527","deaths":"2530"}
 {"date":"2020-12-12","state":"New Hampshire","fips":"33","cases":"30244","deaths":"600"}
 {"date":"2020-12-12","state":"New Jersey","fips":"34","cases":"398364","deaths":"17732"}
@@ -15715,7 +15715,7 @@
 {"date":"2020-12-13","state":"Mississippi","fips":"28","cases":"179447","deaths":"4199"}
 {"date":"2020-12-13","state":"Missouri","fips":"29","cases":"363246","deaths":"4761"}
 {"date":"2020-12-13","state":"Montana","fips":"30","cases":"73303","deaths":"818"}
-{"date":"2020-12-13","state":"Nebraska","fips":"31","cases":"149044","deaths":"1389"}
+{"date":"2020-12-13","state":"Nebraska","fips":"31","cases":"149695","deaths":"1399"}
 {"date":"2020-12-13","state":"Nevada","fips":"32","cases":"187502","deaths":"2545"}
 {"date":"2020-12-13","state":"New Hampshire","fips":"33","cases":"30956","deaths":"603"}
 {"date":"2020-12-13","state":"New Jersey","fips":"34","cases":"402518","deaths":"17751"}
@@ -15770,7 +15770,7 @@
 {"date":"2020-12-14","state":"Mississippi","fips":"28","cases":"181095","deaths":"4204"}
 {"date":"2020-12-14","state":"Missouri","fips":"29","cases":"367510","deaths":"4787"}
 {"date":"2020-12-14","state":"Montana","fips":"30","cases":"73356","deaths":"818"}
-{"date":"2020-12-14","state":"Nebraska","fips":"31","cases":"149620","deaths":"1432"}
+{"date":"2020-12-14","state":"Nebraska","fips":"31","cases":"150322","deaths":"1442"}
 {"date":"2020-12-14","state":"Nevada","fips":"32","cases":"189805","deaths":"2557"}
 {"date":"2020-12-14","state":"New Hampshire","fips":"33","cases":"31875","deaths":"604"}
 {"date":"2020-12-14","state":"New Jersey","fips":"34","cases":"407316","deaths":"17775"}
@@ -15825,7 +15825,7 @@
 {"date":"2020-12-15","state":"Mississippi","fips":"28","cases":"183300","deaths":"4252"}
 {"date":"2020-12-15","state":"Missouri","fips":"29","cases":"370869","deaths":"4959"}
 {"date":"2020-12-15","state":"Montana","fips":"30","cases":"74160","deaths":"826"}
-{"date":"2020-12-15","state":"Nebraska","fips":"31","cases":"151228","deaths":"1454"}
+{"date":"2020-12-15","state":"Nebraska","fips":"31","cases":"151901","deaths":"1464"}
 {"date":"2020-12-15","state":"Nevada","fips":"32","cases":"192109","deaths":"2609"}
 {"date":"2020-12-15","state":"New Hampshire","fips":"33","cases":"32545","deaths":"604"}
 {"date":"2020-12-15","state":"New Jersey","fips":"34","cases":"411282","deaths":"17872"}
@@ -15880,7 +15880,7 @@
 {"date":"2020-12-16","state":"Mississippi","fips":"28","cases":"185643","deaths":"4294"}
 {"date":"2020-12-16","state":"Missouri","fips":"29","cases":"374010","deaths":"5043"}
 {"date":"2020-12-16","state":"Montana","fips":"30","cases":"74764","deaths":"836"}
-{"date":"2020-12-16","state":"Nebraska","fips":"31","cases":"152562","deaths":"1462"}
+{"date":"2020-12-16","state":"Nebraska","fips":"31","cases":"153244","deaths":"1472"}
 {"date":"2020-12-16","state":"Nevada","fips":"32","cases":"194461","deaths":"2659"}
 {"date":"2020-12-16","state":"New Hampshire","fips":"33","cases":"33433","deaths":"625"}
 {"date":"2020-12-16","state":"New Jersey","fips":"34","cases":"416983","deaths":"18003"}
@@ -15935,7 +15935,7 @@
 {"date":"2020-12-17","state":"Mississippi","fips":"28","cases":"187904","deaths":"4320"}
 {"date":"2020-12-17","state":"Missouri","fips":"29","cases":"378014","deaths":"5101"}
 {"date":"2020-12-17","state":"Montana","fips":"30","cases":"75545","deaths":"849"}
-{"date":"2020-12-17","state":"Nebraska","fips":"31","cases":"153761","deaths":"1472"}
+{"date":"2020-12-17","state":"Nebraska","fips":"31","cases":"154425","deaths":"1482"}
 {"date":"2020-12-17","state":"Nevada","fips":"32","cases":"197059","deaths":"2680"}
 {"date":"2020-12-17","state":"New Hampshire","fips":"33","cases":"34264","deaths":"629"}
 {"date":"2020-12-17","state":"New Jersey","fips":"34","cases":"421238","deaths":"18080"}
@@ -15990,7 +15990,7 @@
 {"date":"2020-12-18","state":"Mississippi","fips":"28","cases":"190411","deaths":"4354"}
 {"date":"2020-12-18","state":"Missouri","fips":"29","cases":"382181","deaths":"5170"}
 {"date":"2020-12-18","state":"Montana","fips":"30","cases":"76056","deaths":"855"}
-{"date":"2020-12-18","state":"Nebraska","fips":"31","cases":"155068","deaths":"1490"}
+{"date":"2020-12-18","state":"Nebraska","fips":"31","cases":"155764","deaths":"1500"}
 {"date":"2020-12-18","state":"Nevada","fips":"32","cases":"200032","deaths":"2728"}
 {"date":"2020-12-18","state":"New Hampshire","fips":"33","cases":"34960","deaths":"638"}
 {"date":"2020-12-18","state":"New Jersey","fips":"34","cases":"425134","deaths":"18124"}
@@ -16045,7 +16045,7 @@
 {"date":"2020-12-19","state":"Mississippi","fips":"28","cases":"192111","deaths":"4390"}
 {"date":"2020-12-19","state":"Missouri","fips":"29","cases":"384522","deaths":"5236"}
 {"date":"2020-12-19","state":"Montana","fips":"30","cases":"76708","deaths":"864"}
-{"date":"2020-12-19","state":"Nebraska","fips":"31","cases":"155765","deaths":"1495"}
+{"date":"2020-12-19","state":"Nebraska","fips":"31","cases":"156433","deaths":"1505"}
 {"date":"2020-12-19","state":"Nevada","fips":"32","cases":"202164","deaths":"2754"}
 {"date":"2020-12-19","state":"New Hampshire","fips":"33","cases":"35609","deaths":"650"}
 {"date":"2020-12-19","state":"New Jersey","fips":"34","cases":"429325","deaths":"18173"}
@@ -16100,7 +16100,7 @@
 {"date":"2020-12-20","state":"Mississippi","fips":"28","cases":"194333","deaths":"4409"}
 {"date":"2020-12-20","state":"Missouri","fips":"29","cases":"386259","deaths":"5262"}
 {"date":"2020-12-20","state":"Montana","fips":"30","cases":"77170","deaths":"865"}
-{"date":"2020-12-20","state":"Nebraska","fips":"31","cases":"156513","deaths":"1505"}
+{"date":"2020-12-20","state":"Nebraska","fips":"31","cases":"157171","deaths":"1515"}
 {"date":"2020-12-20","state":"Nevada","fips":"32","cases":"204227","deaths":"2786"}
 {"date":"2020-12-20","state":"New Hampshire","fips":"33","cases":"36542","deaths":"656"}
 {"date":"2020-12-20","state":"New Jersey","fips":"34","cases":"434500","deaths":"18194"}
@@ -16155,7 +16155,7 @@
 {"date":"2020-12-21","state":"Mississippi","fips":"28","cases":"195500","deaths":"4411"}
 {"date":"2020-12-21","state":"Missouri","fips":"29","cases":"390512","deaths":"5291"}
 {"date":"2020-12-21","state":"Montana","fips":"30","cases":"77456","deaths":"881"}
-{"date":"2020-12-21","state":"Nebraska","fips":"31","cases":"157418","deaths":"1530"}
+{"date":"2020-12-21","state":"Nebraska","fips":"31","cases":"158119","deaths":"1540"}
 {"date":"2020-12-21","state":"Nevada","fips":"32","cases":"206195","deaths":"2801"}
 {"date":"2020-12-21","state":"New Hampshire","fips":"33","cases":"37388","deaths":"656"}
 {"date":"2020-12-21","state":"New Jersey","fips":"34","cases":"437671","deaths":"18223"}
@@ -16210,7 +16210,7 @@
 {"date":"2020-12-22","state":"Mississippi","fips":"28","cases":"197691","deaths":"4490"}
 {"date":"2020-12-22","state":"Missouri","fips":"29","cases":"393488","deaths":"5474"}
 {"date":"2020-12-22","state":"Montana","fips":"30","cases":"78017","deaths":"901"}
-{"date":"2020-12-22","state":"Nebraska","fips":"31","cases":"158580","deaths":"1543"}
+{"date":"2020-12-22","state":"Nebraska","fips":"31","cases":"159267","deaths":"1553"}
 {"date":"2020-12-22","state":"Nevada","fips":"32","cases":"207351","deaths":"2832"}
 {"date":"2020-12-22","state":"New Hampshire","fips":"33","cases":"38008","deaths":"656"}
 {"date":"2020-12-22","state":"New Jersey","fips":"34","cases":"442274","deaths":"18326"}
@@ -16265,7 +16265,7 @@
 {"date":"2020-12-23","state":"Mississippi","fips":"28","cases":"200325","deaths":"4533"}
 {"date":"2020-12-23","state":"Missouri","fips":"29","cases":"396409","deaths":"5588"}
 {"date":"2020-12-23","state":"Montana","fips":"30","cases":"78591","deaths":"917"}
-{"date":"2020-12-23","state":"Nebraska","fips":"31","cases":"159861","deaths":"1586"}
+{"date":"2020-12-23","state":"Nebraska","fips":"31","cases":"160586","deaths":"1597"}
 {"date":"2020-12-23","state":"Nevada","fips":"32","cases":"210319","deaths":"2885"}
 {"date":"2020-12-23","state":"New Hampshire","fips":"33","cases":"38512","deaths":"677"}
 {"date":"2020-12-23","state":"New Jersey","fips":"34","cases":"447083","deaths":"18466"}
@@ -16320,7 +16320,7 @@
 {"date":"2020-12-24","state":"Mississippi","fips":"28","cases":"202651","deaths":"4556"}
 {"date":"2020-12-24","state":"Missouri","fips":"29","cases":"399528","deaths":"5627"}
 {"date":"2020-12-24","state":"Montana","fips":"30","cases":"79066","deaths":"918"}
-{"date":"2020-12-24","state":"Nebraska","fips":"31","cases":"160622","deaths":"1590"}
+{"date":"2020-12-24","state":"Nebraska","fips":"31","cases":"161338","deaths":"1601"}
 {"date":"2020-12-24","state":"Nevada","fips":"32","cases":"212662","deaths":"2926"}
 {"date":"2020-12-24","state":"New Hampshire","fips":"33","cases":"38902","deaths":"690"}
 {"date":"2020-12-24","state":"New Jersey","fips":"34","cases":"451787","deaths":"18544"}
@@ -16375,7 +16375,7 @@
 {"date":"2020-12-25","state":"Mississippi","fips":"28","cases":"204178","deaths":"4562"}
 {"date":"2020-12-25","state":"Missouri","fips":"29","cases":"400714","deaths":"5633"}
 {"date":"2020-12-25","state":"Montana","fips":"30","cases":"79066","deaths":"918"}
-{"date":"2020-12-25","state":"Nebraska","fips":"31","cases":"161265","deaths":"1583"}
+{"date":"2020-12-25","state":"Nebraska","fips":"31","cases":"161960","deaths":"1594"}
 {"date":"2020-12-25","state":"Nevada","fips":"32","cases":"214077","deaths":"2943"}
 {"date":"2020-12-25","state":"New Hampshire","fips":"33","cases":"38902","deaths":"690"}
 {"date":"2020-12-25","state":"New Jersey","fips":"34","cases":"456847","deaths":"18595"}
@@ -16430,7 +16430,7 @@
 {"date":"2020-12-26","state":"Mississippi","fips":"28","cases":"205023","deaths":"4565"}
 {"date":"2020-12-26","state":"Missouri","fips":"29","cases":"402344","deaths":"5642"}
 {"date":"2020-12-26","state":"Montana","fips":"30","cases":"79521","deaths":"919"}
-{"date":"2020-12-26","state":"Nebraska","fips":"31","cases":"161579","deaths":"1584"}
+{"date":"2020-12-26","state":"Nebraska","fips":"31","cases":"162272","deaths":"1595"}
 {"date":"2020-12-26","state":"Nevada","fips":"32","cases":"216329","deaths":"2951"}
 {"date":"2020-12-26","state":"New Hampshire","fips":"33","cases":"39933","deaths":"701"}
 {"date":"2020-12-26","state":"New Jersey","fips":"34","cases":"460846","deaths":"18613"}
@@ -16485,7 +16485,7 @@
 {"date":"2020-12-27","state":"Mississippi","fips":"28","cases":"206388","deaths":"4606"}
 {"date":"2020-12-27","state":"Missouri","fips":"29","cases":"404201","deaths":"5656"}
 {"date":"2020-12-27","state":"Montana","fips":"30","cases":"79780","deaths":"924"}
-{"date":"2020-12-27","state":"Nebraska","fips":"31","cases":"162202","deaths":"1584"}
+{"date":"2020-12-27","state":"Nebraska","fips":"31","cases":"162886","deaths":"1595"}
 {"date":"2020-12-27","state":"Nevada","fips":"32","cases":"217653","deaths":"2965"}
 {"date":"2020-12-27","state":"New Hampshire","fips":"33","cases":"40809","deaths":"708"}
 {"date":"2020-12-27","state":"New Jersey","fips":"34","cases":"463166","deaths":"18630"}
@@ -16540,7 +16540,7 @@
 {"date":"2020-12-28","state":"Mississippi","fips":"28","cases":"208089","deaths":"4634"}
 {"date":"2020-12-28","state":"Missouri","fips":"29","cases":"407193","deaths":"5668"}
 {"date":"2020-12-28","state":"Montana","fips":"30","cases":"80080","deaths":"927"}
-{"date":"2020-12-28","state":"Nebraska","fips":"31","cases":"163197","deaths":"1614"}
+{"date":"2020-12-28","state":"Nebraska","fips":"31","cases":"163903","deaths":"1625"}
 {"date":"2020-12-28","state":"Nevada","fips":"32","cases":"218666","deaths":"2973"}
 {"date":"2020-12-28","state":"New Hampshire","fips":"33","cases":"41670","deaths":"715"}
 {"date":"2020-12-28","state":"New Jersey","fips":"34","cases":"465910","deaths":"18651"}
@@ -16595,7 +16595,7 @@
 {"date":"2020-12-29","state":"Mississippi","fips":"28","cases":"210032","deaths":"4719"}
 {"date":"2020-12-29","state":"Missouri","fips":"29","cases":"410334","deaths":"5766"}
 {"date":"2020-12-29","state":"Montana","fips":"30","cases":"80516","deaths":"939"}
-{"date":"2020-12-29","state":"Nebraska","fips":"31","cases":"164200","deaths":"1630"}
+{"date":"2020-12-29","state":"Nebraska","fips":"31","cases":"164892","deaths":"1641"}
 {"date":"2020-12-29","state":"Nevada","fips":"32","cases":"220391","deaths":"3035"}
 {"date":"2020-12-29","state":"New Hampshire","fips":"33","cases":"42697","deaths":"735"}
 {"date":"2020-12-29","state":"New Jersey","fips":"34","cases":"469567","deaths":"18777"}
@@ -16650,7 +16650,7 @@
 {"date":"2020-12-30","state":"Mississippi","fips":"28","cases":"213055","deaths":"4747"}
 {"date":"2020-12-30","state":"Missouri","fips":"29","cases":"413764","deaths":"5846"}
 {"date":"2020-12-30","state":"Montana","fips":"30","cases":"81352","deaths":"950"}
-{"date":"2020-12-30","state":"Nebraska","fips":"31","cases":"165708","deaths":"1640"}
+{"date":"2020-12-30","state":"Nebraska","fips":"31","cases":"166385","deaths":"1651"}
 {"date":"2020-12-30","state":"Nevada","fips":"32","cases":"223033","deaths":"3081"}
 {"date":"2020-12-30","state":"New Hampshire","fips":"33","cases":"43242","deaths":"741"}
 {"date":"2020-12-30","state":"New Jersey","fips":"34","cases":"474285","deaths":"18952"}
@@ -16705,7 +16705,7 @@
 {"date":"2020-12-31","state":"Mississippi","fips":"28","cases":"215811","deaths":"4787"}
 {"date":"2020-12-31","state":"Missouri","fips":"29","cases":"418637","deaths":"5887"}
 {"date":"2020-12-31","state":"Montana","fips":"30","cases":"81701","deaths":"962"}
-{"date":"2020-12-31","state":"Nebraska","fips":"31","cases":"167128","deaths":"1679"}
+{"date":"2020-12-31","state":"Nebraska","fips":"31","cases":"167795","deaths":"1690"}
 {"date":"2020-12-31","state":"Nevada","fips":"32","cases":"225178","deaths":"3136"}
 {"date":"2020-12-31","state":"New Hampshire","fips":"33","cases":"44028","deaths":"759"}
 {"date":"2020-12-31","state":"New Jersey","fips":"34","cases":"479381","deaths":"19042"}
@@ -16760,7 +16760,7 @@
 {"date":"2021-01-01","state":"Mississippi","fips":"28","cases":"218386","deaths":"4816"}
 {"date":"2021-01-01","state":"Missouri","fips":"29","cases":"421217","deaths":"5906"}
 {"date":"2021-01-01","state":"Montana","fips":"30","cases":"81701","deaths":"962"}
-{"date":"2021-01-01","state":"Nebraska","fips":"31","cases":"167799","deaths":"1693"}
+{"date":"2021-01-01","state":"Nebraska","fips":"31","cases":"168567","deaths":"1707"}
 {"date":"2021-01-01","state":"Nevada","fips":"32","cases":"227046","deaths":"3146"}
 {"date":"2021-01-01","state":"New Hampshire","fips":"33","cases":"44028","deaths":"759"}
 {"date":"2021-01-01","state":"New Jersey","fips":"34","cases":"484882","deaths":"19160"}
@@ -16815,7 +16815,7 @@
 {"date":"2021-01-02","state":"Mississippi","fips":"28","cases":"220277","deaths":"4840"}
 {"date":"2021-01-02","state":"Missouri","fips":"29","cases":"423894","deaths":"5910"}
 {"date":"2021-01-02","state":"Montana","fips":"30","cases":"81991","deaths":"971"}
-{"date":"2021-01-02","state":"Nebraska","fips":"31","cases":"168564","deaths":"1694"}
+{"date":"2021-01-02","state":"Nebraska","fips":"31","cases":"169330","deaths":"1708"}
 {"date":"2021-01-02","state":"Nevada","fips":"32","cases":"229601","deaths":"3158"}
 {"date":"2021-01-02","state":"New Hampshire","fips":"33","cases":"45184","deaths":"769"}
 {"date":"2021-01-02","state":"New Jersey","fips":"34","cases":"490393","deaths":"19187"}
@@ -16870,7 +16870,7 @@
 {"date":"2021-01-03","state":"Mississippi","fips":"28","cases":"222061","deaths":"4871"}
 {"date":"2021-01-03","state":"Missouri","fips":"29","cases":"426489","deaths":"5928"}
 {"date":"2021-01-03","state":"Montana","fips":"30","cases":"82381","deaths":"972"}
-{"date":"2021-01-03","state":"Nebraska","fips":"31","cases":"169284","deaths":"1696"}
+{"date":"2021-01-03","state":"Nebraska","fips":"31","cases":"170037","deaths":"1708"}
 {"date":"2021-01-03","state":"Nevada","fips":"32","cases":"231869","deaths":"3195"}
 {"date":"2021-01-03","state":"New Hampshire","fips":"33","cases":"46450","deaths":"780"}
 {"date":"2021-01-03","state":"New Jersey","fips":"34","cases":"494063","deaths":"19208"}
@@ -16925,7 +16925,7 @@
 {"date":"2021-01-04","state":"Mississippi","fips":"28","cases":"223677","deaths":"4884"}
 {"date":"2021-01-04","state":"Missouri","fips":"29","cases":"429745","deaths":"5941"}
 {"date":"2021-01-04","state":"Montana","fips":"30","cases":"82753","deaths":"975"}
-{"date":"2021-01-04","state":"Nebraska","fips":"31","cases":"169981","deaths":"1714"}
+{"date":"2021-01-04","state":"Nebraska","fips":"31","cases":"170778","deaths":"1727"}
 {"date":"2021-01-04","state":"Nevada","fips":"32","cases":"233337","deaths":"3209"}
 {"date":"2021-01-04","state":"New Hampshire","fips":"33","cases":"47328","deaths":"781"}
 {"date":"2021-01-04","state":"New Jersey","fips":"34","cases":"545155","deaths":"19244"}
@@ -16980,7 +16980,7 @@
 {"date":"2021-01-05","state":"Mississippi","fips":"28","cases":"225444","deaths":"4975"}
 {"date":"2021-01-05","state":"Missouri","fips":"29","cases":"432830","deaths":"6123"}
 {"date":"2021-01-05","state":"Montana","fips":"30","cases":"83529","deaths":"1006"}
-{"date":"2021-01-05","state":"Nebraska","fips":"31","cases":"171294","deaths":"1734"}
+{"date":"2021-01-05","state":"Nebraska","fips":"31","cases":"172067","deaths":"1747"}
 {"date":"2021-01-05","state":"Nevada","fips":"32","cases":"235723","deaths":"3246"}
 {"date":"2021-01-05","state":"New Hampshire","fips":"33","cases":"47992","deaths":"792"}
 {"date":"2021-01-05","state":"New Jersey","fips":"34","cases":"551419","deaths":"19382"}
@@ -17035,7 +17035,7 @@
 {"date":"2021-01-06","state":"Mississippi","fips":"28","cases":"228235","deaths":"5013"}
 {"date":"2021-01-06","state":"Missouri","fips":"29","cases":"435687","deaths":"6167"}
 {"date":"2021-01-06","state":"Montana","fips":"30","cases":"84155","deaths":"1015"}
-{"date":"2021-01-06","state":"Nebraska","fips":"31","cases":"172820","deaths":"1743"}
+{"date":"2021-01-06","state":"Nebraska","fips":"31","cases":"173625","deaths":"1756"}
 {"date":"2021-01-06","state":"Nevada","fips":"32","cases":"237788","deaths":"3301"}
 {"date":"2021-01-06","state":"New Hampshire","fips":"33","cases":"48838","deaths":"816"}
 {"date":"2021-01-06","state":"New Jersey","fips":"34","cases":"557271","deaths":"19523"}
@@ -17090,7 +17090,7 @@
 {"date":"2021-01-07","state":"Mississippi","fips":"28","cases":"231490","deaths":"5061"}
 {"date":"2021-01-07","state":"Missouri","fips":"29","cases":"440563","deaths":"6238"}
 {"date":"2021-01-07","state":"Montana","fips":"30","cases":"84848","deaths":"1039"}
-{"date":"2021-01-07","state":"Nebraska","fips":"31","cases":"173799","deaths":"1869"}
+{"date":"2021-01-07","state":"Nebraska","fips":"31","cases":"174590","deaths":"1881"}
 {"date":"2021-01-07","state":"Nevada","fips":"32","cases":"241157","deaths":"3349"}
 {"date":"2021-01-07","state":"New Hampshire","fips":"33","cases":"49261","deaths":"827"}
 {"date":"2021-01-07","state":"New Jersey","fips":"34","cases":"564750","deaths":"19646"}
@@ -17145,7 +17145,7 @@
 {"date":"2021-01-08","state":"Mississippi","fips":"28","cases":"233665","deaths":"5101"}
 {"date":"2021-01-08","state":"Missouri","fips":"29","cases":"445310","deaths":"6276"}
 {"date":"2021-01-08","state":"Montana","fips":"30","cases":"85668","deaths":"1049"}
-{"date":"2021-01-08","state":"Nebraska","fips":"31","cases":"174839","deaths":"1796"}
+{"date":"2021-01-08","state":"Nebraska","fips":"31","cases":"175655","deaths":"1808"}
 {"date":"2021-01-08","state":"Nevada","fips":"32","cases":"244116","deaths":"3409"}
 {"date":"2021-01-08","state":"New Hampshire","fips":"33","cases":"50152","deaths":"846"}
 {"date":"2021-01-08","state":"New Jersey","fips":"34","cases":"571771","deaths":"19756"}
@@ -17200,7 +17200,7 @@
 {"date":"2021-01-09","state":"Mississippi","fips":"28","cases":"236868","deaths":"5146"}
 {"date":"2021-01-09","state":"Missouri","fips":"29","cases":"448586","deaths":"6309"}
 {"date":"2021-01-09","state":"Montana","fips":"30","cases":"86116","deaths":"1054"}
-{"date":"2021-01-09","state":"Nebraska","fips":"31","cases":"175842","deaths":"1800"}
+{"date":"2021-01-09","state":"Nebraska","fips":"31","cases":"176645","deaths":"1812"}
 {"date":"2021-01-09","state":"Nevada","fips":"32","cases":"246659","deaths":"3457"}
 {"date":"2021-01-09","state":"New Hampshire","fips":"33","cases":"50871","deaths":"862"}
 {"date":"2021-01-09","state":"New Jersey","fips":"34","cases":"579182","deaths":"19854"}
@@ -17255,7 +17255,7 @@
 {"date":"2021-01-10","state":"Mississippi","fips":"28","cases":"239082","deaths":"5167"}
 {"date":"2021-01-10","state":"Missouri","fips":"29","cases":"450886","deaths":"6316"}
 {"date":"2021-01-10","state":"Montana","fips":"30","cases":"86324","deaths":"1056"}
-{"date":"2021-01-10","state":"Nebraska","fips":"31","cases":"176200","deaths":"1803"}
+{"date":"2021-01-10","state":"Nebraska","fips":"31","cases":"177001","deaths":"1815"}
 {"date":"2021-01-10","state":"Nevada","fips":"32","cases":"248758","deaths":"3470"}
 {"date":"2021-01-10","state":"New Hampshire","fips":"33","cases":"51600","deaths":"869"}
 {"date":"2021-01-10","state":"New Jersey","fips":"34","cases":"584828","deaths":"19886"}
@@ -17310,7 +17310,7 @@
 {"date":"2021-01-11","state":"Mississippi","fips":"28","cases":"240309","deaths":"5186"}
 {"date":"2021-01-11","state":"Missouri","fips":"29","cases":"454492","deaths":"6336"}
 {"date":"2021-01-11","state":"Montana","fips":"30","cases":"86757","deaths":"1057"}
-{"date":"2021-01-11","state":"Nebraska","fips":"31","cases":"176831","deaths":"1823"}
+{"date":"2021-01-11","state":"Nebraska","fips":"31","cases":"177655","deaths":"1835"}
 {"date":"2021-01-11","state":"Nevada","fips":"32","cases":"250484","deaths":"3503"}
 {"date":"2021-01-11","state":"New Hampshire","fips":"33","cases":"52307","deaths":"869"}
 {"date":"2021-01-11","state":"New Jersey","fips":"34","cases":"590165","deaths":"19932"}
@@ -17365,7 +17365,7 @@
 {"date":"2021-01-12","state":"Mississippi","fips":"28","cases":"241957","deaths":"5284"}
 {"date":"2021-01-12","state":"Missouri","fips":"29","cases":"456978","deaths":"6495"}
 {"date":"2021-01-12","state":"Montana","fips":"30","cases":"87179","deaths":"1067"}
-{"date":"2021-01-12","state":"Nebraska","fips":"31","cases":"177883","deaths":"1847"}
+{"date":"2021-01-12","state":"Nebraska","fips":"31","cases":"178690","deaths":"1859"}
 {"date":"2021-01-12","state":"Nevada","fips":"32","cases":"253100","deaths":"3551"}
 {"date":"2021-01-12","state":"New Hampshire","fips":"33","cases":"53148","deaths":"878"}
 {"date":"2021-01-12","state":"New Jersey","fips":"34","cases":"594751","deaths":"20039"}
@@ -17420,7 +17420,7 @@
 {"date":"2021-01-13","state":"Mississippi","fips":"28","cases":"243899","deaths":"5315"}
 {"date":"2021-01-13","state":"Missouri","fips":"29","cases":"459428","deaths":"6538"}
 {"date":"2021-01-13","state":"Montana","fips":"30","cases":"87759","deaths":"1069"}
-{"date":"2021-01-13","state":"Nebraska","fips":"31","cases":"179333","deaths":"1858"}
+{"date":"2021-01-13","state":"Nebraska","fips":"31","cases":"180160","deaths":"1870"}
 {"date":"2021-01-13","state":"Nevada","fips":"32","cases":"254056","deaths":"3596"}
 {"date":"2021-01-13","state":"New Hampshire","fips":"33","cases":"54125","deaths":"885"}
 {"date":"2021-01-13","state":"New Jersey","fips":"34","cases":"602629","deaths":"20166"}
@@ -17475,7 +17475,7 @@
 {"date":"2021-01-14","state":"Mississippi","fips":"28","cases":"245847","deaths":"5356"}
 {"date":"2021-01-14","state":"Missouri","fips":"29","cases":"462318","deaths":"6590"}
 {"date":"2021-01-14","state":"Montana","fips":"30","cases":"88190","deaths":"1079"}
-{"date":"2021-01-14","state":"Nebraska","fips":"31","cases":"180285","deaths":"1873"}
+{"date":"2021-01-14","state":"Nebraska","fips":"31","cases":"181091","deaths":"1885"}
 {"date":"2021-01-14","state":"Nevada","fips":"32","cases":"256476","deaths":"3664"}
 {"date":"2021-01-14","state":"New Hampshire","fips":"33","cases":"54778","deaths":"897"}
 {"date":"2021-01-14","state":"New Jersey","fips":"34","cases":"609721","deaths":"20253"}
@@ -17530,7 +17530,7 @@
 {"date":"2021-01-15","state":"Mississippi","fips":"28","cases":"248189","deaths":"5411"}
 {"date":"2021-01-15","state":"Missouri","fips":"29","cases":"464931","deaths":"6619"}
 {"date":"2021-01-15","state":"Montana","fips":"30","cases":"88725","deaths":"1086"}
-{"date":"2021-01-15","state":"Nebraska","fips":"31","cases":"181101","deaths":"1892"}
+{"date":"2021-01-15","state":"Nebraska","fips":"31","cases":"181895","deaths":"1904"}
 {"date":"2021-01-15","state":"Nevada","fips":"32","cases":"258451","deaths":"3704"}
 {"date":"2021-01-15","state":"New Hampshire","fips":"33","cases":"55500","deaths":"908"}
 {"date":"2021-01-15","state":"New Jersey","fips":"34","cases":"616086","deaths":"20320"}
@@ -17585,7 +17585,7 @@
 {"date":"2021-01-16","state":"Mississippi","fips":"28","cases":"250869","deaths":"5481"}
 {"date":"2021-01-16","state":"Missouri","fips":"29","cases":"466829","deaths":"6644"}
 {"date":"2021-01-16","state":"Montana","fips":"30","cases":"89056","deaths":"1088"}
-{"date":"2021-01-16","state":"Nebraska","fips":"31","cases":"181101","deaths":"1892"}
+{"date":"2021-01-16","state":"Nebraska","fips":"31","cases":"181895","deaths":"1904"}
 {"date":"2021-01-16","state":"Nevada","fips":"32","cases":"260222","deaths":"3764"}
 {"date":"2021-01-16","state":"New Hampshire","fips":"33","cases":"55945","deaths":"927"}
 {"date":"2021-01-16","state":"New Jersey","fips":"34","cases":"622085","deaths":"20414"}
@@ -17640,7 +17640,7 @@
 {"date":"2021-01-17","state":"Mississippi","fips":"28","cases":"252475","deaths":"5521"}
 {"date":"2021-01-17","state":"Missouri","fips":"29","cases":"468106","deaths":"6647"}
 {"date":"2021-01-17","state":"Montana","fips":"30","cases":"89393","deaths":"1092"}
-{"date":"2021-01-17","state":"Nebraska","fips":"31","cases":"182139","deaths":"1893"}
+{"date":"2021-01-17","state":"Nebraska","fips":"31","cases":"182914","deaths":"1905"}
 {"date":"2021-01-17","state":"Nevada","fips":"32","cases":"261847","deaths":"3784"}
 {"date":"2021-01-17","state":"New Hampshire","fips":"33","cases":"56864","deaths":"933"}
 {"date":"2021-01-17","state":"New Jersey","fips":"34","cases":"627221","deaths":"20439"}
@@ -17695,7 +17695,7 @@
 {"date":"2021-01-18","state":"Mississippi","fips":"28","cases":"253932","deaths":"5524"}
 {"date":"2021-01-18","state":"Missouri","fips":"29","cases":"469352","deaths":"6655"}
 {"date":"2021-01-18","state":"Montana","fips":"30","cases":"89584","deaths":"1093"}
-{"date":"2021-01-18","state":"Nebraska","fips":"31","cases":"182393","deaths":"1896"}
+{"date":"2021-01-18","state":"Nebraska","fips":"31","cases":"183228","deaths":"1908"}
 {"date":"2021-01-18","state":"Nevada","fips":"32","cases":"262880","deaths":"3784"}
 {"date":"2021-01-18","state":"New Hampshire","fips":"33","cases":"57864","deaths":"933"}
 {"date":"2021-01-18","state":"New Jersey","fips":"34","cases":"631074","deaths":"20458"}
@@ -17750,7 +17750,7 @@
 {"date":"2021-01-19","state":"Mississippi","fips":"28","cases":"255125","deaths":"5574"}
 {"date":"2021-01-19","state":"Missouri","fips":"29","cases":"471743","deaths":"6672"}
 {"date":"2021-01-19","state":"Montana","fips":"30","cases":"89952","deaths":"1093"}
-{"date":"2021-01-19","state":"Nebraska","fips":"31","cases":"182852","deaths":"1902"}
+{"date":"2021-01-19","state":"Nebraska","fips":"31","cases":"183687","deaths":"1914"}
 {"date":"2021-01-19","state":"Nevada","fips":"32","cases":"264236","deaths":"3794"}
 {"date":"2021-01-19","state":"New Hampshire","fips":"33","cases":"58709","deaths":"938"}
 {"date":"2021-01-19","state":"New Jersey","fips":"34","cases":"635701","deaths":"20512"}
@@ -17805,7 +17805,7 @@
 {"date":"2021-01-20","state":"Mississippi","fips":"28","cases":"256827","deaths":"5638"}
 {"date":"2021-01-20","state":"Missouri","fips":"29","cases":"473912","deaths":"6868"}
 {"date":"2021-01-20","state":"Montana","fips":"30","cases":"90349","deaths":"1094"}
-{"date":"2021-01-20","state":"Nebraska","fips":"31","cases":"184817","deaths":"1924"}
+{"date":"2021-01-20","state":"Nebraska","fips":"31","cases":"185656","deaths":"1936"}
 {"date":"2021-01-20","state":"Nevada","fips":"32","cases":"265241","deaths":"3869"}
 {"date":"2021-01-20","state":"New Hampshire","fips":"33","cases":"59437","deaths":"950"}
 {"date":"2021-01-20","state":"New Jersey","fips":"34","cases":"641140","deaths":"20667"}
@@ -17860,7 +17860,7 @@
 {"date":"2021-01-21","state":"Mississippi","fips":"28","cases":"259117","deaths":"5668"}
 {"date":"2021-01-21","state":"Missouri","fips":"29","cases":"476262","deaths":"6909"}
 {"date":"2021-01-21","state":"Montana","fips":"30","cases":"90742","deaths":"1102"}
-{"date":"2021-01-21","state":"Nebraska","fips":"31","cases":"185659","deaths":"1937"}
+{"date":"2021-01-21","state":"Nebraska","fips":"31","cases":"186472","deaths":"1949"}
 {"date":"2021-01-21","state":"Nevada","fips":"32","cases":"266656","deaths":"3915"}
 {"date":"2021-01-21","state":"New Hampshire","fips":"33","cases":"60294","deaths":"962"}
 {"date":"2021-01-21","state":"New Jersey","fips":"34","cases":"646188","deaths":"20760"}
@@ -17915,7 +17915,7 @@
 {"date":"2021-01-22","state":"Mississippi","fips":"28","cases":"261167","deaths":"5713"}
 {"date":"2021-01-22","state":"Missouri","fips":"29","cases":"478517","deaths":"6932"}
 {"date":"2021-01-22","state":"Montana","fips":"30","cases":"91145","deaths":"1106"}
-{"date":"2021-01-22","state":"Nebraska","fips":"31","cases":"186646","deaths":"1948"}
+{"date":"2021-01-22","state":"Nebraska","fips":"31","cases":"187496","deaths":"1960"}
 {"date":"2021-01-22","state":"Nevada","fips":"32","cases":"268357","deaths":"3967"}
 {"date":"2021-01-22","state":"New Hampshire","fips":"33","cases":"60951","deaths":"971"}
 {"date":"2021-01-22","state":"New Jersey","fips":"34","cases":"650388","deaths":"20875"}
@@ -17970,7 +17970,7 @@
 {"date":"2021-01-23","state":"Mississippi","fips":"28","cases":"263023","deaths":"5752"}
 {"date":"2021-01-23","state":"Missouri","fips":"29","cases":"480183","deaths":"6949"}
 {"date":"2021-01-23","state":"Montana","fips":"30","cases":"91448","deaths":"1142"}
-{"date":"2021-01-23","state":"Nebraska","fips":"31","cases":"187135","deaths":"1954"}
+{"date":"2021-01-23","state":"Nebraska","fips":"31","cases":"187974","deaths":"1966"}
 {"date":"2021-01-23","state":"Nevada","fips":"32","cases":"269928","deaths":"4017"}
 {"date":"2021-01-23","state":"New Hampshire","fips":"33","cases":"61576","deaths":"981"}
 {"date":"2021-01-23","state":"New Jersey","fips":"34","cases":"657536","deaths":"20934"}
@@ -18025,7 +18025,7 @@
 {"date":"2021-01-24","state":"Mississippi","fips":"28","cases":"264219","deaths":"5772"}
 {"date":"2021-01-24","state":"Missouri","fips":"29","cases":"481970","deaths":"6956"}
 {"date":"2021-01-24","state":"Montana","fips":"30","cases":"91662","deaths":"1152"}
-{"date":"2021-01-24","state":"Nebraska","fips":"31","cases":"187407","deaths":"1954"}
+{"date":"2021-01-24","state":"Nebraska","fips":"31","cases":"188241","deaths":"1966"}
 {"date":"2021-01-24","state":"Nevada","fips":"32","cases":"271029","deaths":"4027"}
 {"date":"2021-01-24","state":"New Hampshire","fips":"33","cases":"62337","deaths":"987"}
 {"date":"2021-01-24","state":"New Jersey","fips":"34","cases":"662808","deaths":"20951"}
@@ -18080,7 +18080,7 @@
 {"date":"2021-01-25","state":"Mississippi","fips":"28","cases":"265146","deaths":"5777"}
 {"date":"2021-01-25","state":"Missouri","fips":"29","cases":"483906","deaths":"6968"}
 {"date":"2021-01-25","state":"Montana","fips":"30","cases":"91905","deaths":"1152"}
-{"date":"2021-01-25","state":"Nebraska","fips":"31","cases":"187993","deaths":"1972"}
+{"date":"2021-01-25","state":"Nebraska","fips":"31","cases":"188850","deaths":"1984"}
 {"date":"2021-01-25","state":"Nevada","fips":"32","cases":"272019","deaths":"4032"}
 {"date":"2021-01-25","state":"New Hampshire","fips":"33","cases":"62768","deaths":"990"}
 {"date":"2021-01-25","state":"New Jersey","fips":"34","cases":"666951","deaths":"20972"}
@@ -18135,7 +18135,7 @@
 {"date":"2021-01-26","state":"Mississippi","fips":"28","cases":"266598","deaths":"5852"}
 {"date":"2021-01-26","state":"Missouri","fips":"29","cases":"485533","deaths":"7082"}
 {"date":"2021-01-26","state":"Montana","fips":"30","cases":"92249","deaths":"1186"}
-{"date":"2021-01-26","state":"Nebraska","fips":"31","cases":"188293","deaths":"1985"}
+{"date":"2021-01-26","state":"Nebraska","fips":"31","cases":"189151","deaths":"1997"}
 {"date":"2021-01-26","state":"Nevada","fips":"32","cases":"272942","deaths":"4092"}
 {"date":"2021-01-26","state":"New Hampshire","fips":"33","cases":"63172","deaths":"994"}
 {"date":"2021-01-26","state":"New Jersey","fips":"34","cases":"671727","deaths":"21105"}
@@ -18190,7 +18190,7 @@
 {"date":"2021-01-27","state":"Mississippi","fips":"28","cases":"268672","deaths":"5917"}
 {"date":"2021-01-27","state":"Missouri","fips":"29","cases":"487273","deaths":"7118"}
 {"date":"2021-01-27","state":"Montana","fips":"30","cases":"92619","deaths":"1202"}
-{"date":"2021-01-27","state":"Nebraska","fips":"31","cases":"188979","deaths":"1996"}
+{"date":"2021-01-27","state":"Nebraska","fips":"31","cases":"189847","deaths":"2010"}
 {"date":"2021-01-27","state":"Nevada","fips":"32","cases":"274042","deaths":"4139"}
 {"date":"2021-01-27","state":"New Hampshire","fips":"33","cases":"63563","deaths":"1006"}
 {"date":"2021-01-27","state":"New Jersey","fips":"34","cases":"676537","deaths":"21234"}
@@ -18245,7 +18245,7 @@
 {"date":"2021-01-28","state":"Mississippi","fips":"28","cases":"270476","deaths":"5945"}
 {"date":"2021-01-28","state":"Missouri","fips":"29","cases":"489451","deaths":"7141"}
 {"date":"2021-01-28","state":"Montana","fips":"30","cases":"93018","deaths":"1213"}
-{"date":"2021-01-28","state":"Nebraska","fips":"31","cases":"189731","deaths":"1999"}
+{"date":"2021-01-28","state":"Nebraska","fips":"31","cases":"190585","deaths":"2013"}
 {"date":"2021-01-28","state":"Nevada","fips":"32","cases":"275138","deaths":"4188"}
 {"date":"2021-01-28","state":"New Hampshire","fips":"33","cases":"64258","deaths":"1022"}
 {"date":"2021-01-28","state":"New Jersey","fips":"34","cases":"681283","deaths":"21301"}
@@ -18300,7 +18300,7 @@
 {"date":"2021-01-29","state":"Mississippi","fips":"28","cases":"272662","deaths":"5983"}
 {"date":"2021-01-29","state":"Missouri","fips":"29","cases":"491612","deaths":"7162"}
 {"date":"2021-01-29","state":"Montana","fips":"30","cases":"93322","deaths":"1228"}
-{"date":"2021-01-29","state":"Nebraska","fips":"31","cases":"189827","deaths":"2006"}
+{"date":"2021-01-29","state":"Nebraska","fips":"31","cases":"190709","deaths":"2020"}
 {"date":"2021-01-29","state":"Nevada","fips":"32","cases":"276520","deaths":"4225"}
 {"date":"2021-01-29","state":"New Hampshire","fips":"33","cases":"64838","deaths":"1036"}
 {"date":"2021-01-29","state":"New Jersey","fips":"34","cases":"687269","deaths":"21383"}
@@ -18355,7 +18355,7 @@
 {"date":"2021-01-30","state":"Mississippi","fips":"28","cases":"274190","deaths":"6018"}
 {"date":"2021-01-30","state":"Missouri","fips":"29","cases":"492665","deaths":"7175"}
 {"date":"2021-01-30","state":"Montana","fips":"30","cases":"93793","deaths":"1233"}
-{"date":"2021-01-30","state":"Nebraska","fips":"31","cases":"190696","deaths":"2011"}
+{"date":"2021-01-30","state":"Nebraska","fips":"31","cases":"191569","deaths":"2025"}
 {"date":"2021-01-30","state":"Nevada","fips":"32","cases":"277560","deaths":"4268"}
 {"date":"2021-01-30","state":"New Hampshire","fips":"33","cases":"65362","deaths":"1042"}
 {"date":"2021-01-30","state":"New Jersey","fips":"34","cases":"692543","deaths":"21455"}
@@ -18410,7 +18410,7 @@
 {"date":"2021-01-31","state":"Mississippi","fips":"28","cases":"275001","deaths":"6045"}
 {"date":"2021-01-31","state":"Missouri","fips":"29","cases":"493431","deaths":"7176"}
 {"date":"2021-01-31","state":"Montana","fips":"30","cases":"93961","deaths":"1234"}
-{"date":"2021-01-31","state":"Nebraska","fips":"31","cases":"190891","deaths":"2011"}
+{"date":"2021-01-31","state":"Nebraska","fips":"31","cases":"191763","deaths":"2025"}
 {"date":"2021-01-31","state":"Nevada","fips":"32","cases":"278460","deaths":"4271"}
 {"date":"2021-01-31","state":"New Hampshire","fips":"33","cases":"65695","deaths":"1057"}
 {"date":"2021-01-31","state":"New Jersey","fips":"34","cases":"696831","deaths":"21484"}
@@ -18465,7 +18465,7 @@
 {"date":"2021-02-01","state":"Mississippi","fips":"28","cases":"275706","deaths":"6056"}
 {"date":"2021-02-01","state":"Missouri","fips":"29","cases":"494869","deaths":"7182"}
 {"date":"2021-02-01","state":"Montana","fips":"30","cases":"94146","deaths":"1235"}
-{"date":"2021-02-01","state":"Nebraska","fips":"31","cases":"191221","deaths":"2017"}
+{"date":"2021-02-01","state":"Nebraska","fips":"31","cases":"192112","deaths":"2031"}
 {"date":"2021-02-01","state":"Nevada","fips":"32","cases":"279241","deaths":"4281"}
 {"date":"2021-02-01","state":"New Hampshire","fips":"33","cases":"66058","deaths":"1059"}
 {"date":"2021-02-01","state":"New Jersey","fips":"34","cases":"700346","deaths":"21513"}
@@ -18520,7 +18520,7 @@
 {"date":"2021-02-02","state":"Mississippi","fips":"28","cases":"276531","deaths":"6132"}
 {"date":"2021-02-02","state":"Missouri","fips":"29","cases":"496481","deaths":"7410"}
 {"date":"2021-02-02","state":"Montana","fips":"30","cases":"94460","deaths":"1250"}
-{"date":"2021-02-02","state":"Nebraska","fips":"31","cases":"191678","deaths":"2022"}
+{"date":"2021-02-02","state":"Nebraska","fips":"31","cases":"192553","deaths":"2036"}
 {"date":"2021-02-02","state":"Nevada","fips":"32","cases":"280038","deaths":"4328"}
 {"date":"2021-02-02","state":"New Hampshire","fips":"33","cases":"66384","deaths":"1066"}
 {"date":"2021-02-02","state":"New Jersey","fips":"34","cases":"703496","deaths":"21584"}
@@ -18575,7 +18575,7 @@
 {"date":"2021-02-03","state":"Mississippi","fips":"28","cases":"277322","deaths":"6158"}
 {"date":"2021-02-03","state":"Missouri","fips":"29","cases":"497781","deaths":"7491"}
 {"date":"2021-02-03","state":"Montana","fips":"30","cases":"94890","deaths":"1304"}
-{"date":"2021-02-03","state":"Nebraska","fips":"31","cases":"192228","deaths":"2028"}
+{"date":"2021-02-03","state":"Nebraska","fips":"31","cases":"193128","deaths":"2042"}
 {"date":"2021-02-03","state":"Nevada","fips":"32","cases":"280848","deaths":"4376"}
 {"date":"2021-02-03","state":"New Hampshire","fips":"33","cases":"66721","deaths":"1076"}
 {"date":"2021-02-03","state":"New Jersey","fips":"34","cases":"705807","deaths":"21693"}
@@ -18630,7 +18630,7 @@
 {"date":"2021-02-04","state":"Mississippi","fips":"28","cases":"278532","deaths":"6182"}
 {"date":"2021-02-04","state":"Missouri","fips":"29","cases":"499272","deaths":"7518"}
 {"date":"2021-02-04","state":"Montana","fips":"30","cases":"95191","deaths":"1310"}
-{"date":"2021-02-04","state":"Nebraska","fips":"31","cases":"192717","deaths":"2052"}
+{"date":"2021-02-04","state":"Nebraska","fips":"31","cases":"193612","deaths":"2067"}
 {"date":"2021-02-04","state":"Nevada","fips":"32","cases":"281793","deaths":"4428"}
 {"date":"2021-02-04","state":"New Hampshire","fips":"33","cases":"67117","deaths":"1085"}
 {"date":"2021-02-04","state":"New Jersey","fips":"34","cases":"709096","deaths":"21793"}
@@ -18685,7 +18685,7 @@
 {"date":"2021-02-05","state":"Mississippi","fips":"28","cases":"279742","deaths":"6222"}
 {"date":"2021-02-05","state":"Missouri","fips":"29","cases":"501054","deaths":"7540"}
 {"date":"2021-02-05","state":"Montana","fips":"30","cases":"95539","deaths":"1312"}
-{"date":"2021-02-05","state":"Nebraska","fips":"31","cases":"193212","deaths":"2061"}
+{"date":"2021-02-05","state":"Nebraska","fips":"31","cases":"194089","deaths":"2076"}
 {"date":"2021-02-05","state":"Nevada","fips":"32","cases":"282713","deaths":"4466"}
 {"date":"2021-02-05","state":"New Hampshire","fips":"33","cases":"67595","deaths":"1091"}
 {"date":"2021-02-05","state":"New Jersey","fips":"34","cases":"713324","deaths":"21886"}
@@ -18740,7 +18740,7 @@
 {"date":"2021-02-06","state":"Mississippi","fips":"28","cases":"280778","deaths":"6266"}
 {"date":"2021-02-06","state":"Missouri","fips":"29","cases":"501870","deaths":"7557"}
 {"date":"2021-02-06","state":"Montana","fips":"30","cases":"95753","deaths":"1313"}
-{"date":"2021-02-06","state":"Nebraska","fips":"31","cases":"193547","deaths":"2066"}
+{"date":"2021-02-06","state":"Nebraska","fips":"31","cases":"194422","deaths":"2081"}
 {"date":"2021-02-06","state":"Nevada","fips":"32","cases":"283463","deaths":"4498"}
 {"date":"2021-02-06","state":"New Hampshire","fips":"33","cases":"68061","deaths":"1098"}
 {"date":"2021-02-06","state":"New Jersey","fips":"34","cases":"717834","deaths":"21964"}
@@ -18795,7 +18795,7 @@
 {"date":"2021-02-07","state":"Mississippi","fips":"28","cases":"281678","deaths":"6269"}
 {"date":"2021-02-07","state":"Missouri","fips":"29","cases":"502432","deaths":"7562"}
 {"date":"2021-02-07","state":"Montana","fips":"30","cases":"95813","deaths":"1315"}
-{"date":"2021-02-07","state":"Nebraska","fips":"31","cases":"193837","deaths":"2066"}
+{"date":"2021-02-07","state":"Nebraska","fips":"31","cases":"194707","deaths":"2081"}
 {"date":"2021-02-07","state":"Nevada","fips":"32","cases":"284137","deaths":"4521"}
 {"date":"2021-02-07","state":"New Hampshire","fips":"33","cases":"68379","deaths":"1104"}
 {"date":"2021-02-07","state":"New Jersey","fips":"34","cases":"722166","deaths":"21989"}
@@ -18850,7 +18850,7 @@
 {"date":"2021-02-08","state":"Mississippi","fips":"28","cases":"282313","deaths":"6270"}
 {"date":"2021-02-08","state":"Missouri","fips":"29","cases":"503553","deaths":"7578"}
 {"date":"2021-02-08","state":"Montana","fips":"30","cases":"95993","deaths":"1315"}
-{"date":"2021-02-08","state":"Nebraska","fips":"31","cases":"194046","deaths":"2077"}
+{"date":"2021-02-08","state":"Nebraska","fips":"31","cases":"194957","deaths":"2092"}
 {"date":"2021-02-08","state":"Nevada","fips":"32","cases":"284692","deaths":"4524"}
 {"date":"2021-02-08","state":"New Hampshire","fips":"33","cases":"68499","deaths":"1106"}
 {"date":"2021-02-08","state":"New Jersey","fips":"34","cases":"724727","deaths":"22011"}
@@ -18905,7 +18905,7 @@
 {"date":"2021-02-09","state":"Mississippi","fips":"28","cases":"282969","deaths":"6342"}
 {"date":"2021-02-09","state":"Missouri","fips":"29","cases":"504342","deaths":"7589"}
 {"date":"2021-02-09","state":"Montana","fips":"30","cases":"96371","deaths":"1316"}
-{"date":"2021-02-09","state":"Nebraska","fips":"31","cases":"194424","deaths":"2085"}
+{"date":"2021-02-09","state":"Nebraska","fips":"31","cases":"195327","deaths":"2100"}
 {"date":"2021-02-09","state":"Nevada","fips":"32","cases":"285191","deaths":"4565"}
 {"date":"2021-02-09","state":"New Hampshire","fips":"33","cases":"68918","deaths":"1109"}
 {"date":"2021-02-09","state":"New Jersey","fips":"34","cases":"728304","deaths":"22103"}
@@ -18960,7 +18960,7 @@
 {"date":"2021-02-10","state":"Mississippi","fips":"28","cases":"283753","deaths":"6367"}
 {"date":"2021-02-10","state":"Missouri","fips":"29","cases":"505526","deaths":"7606"}
 {"date":"2021-02-10","state":"Montana","fips":"30","cases":"96678","deaths":"1321"}
-{"date":"2021-02-10","state":"Nebraska","fips":"31","cases":"194901","deaths":"2095"}
+{"date":"2021-02-10","state":"Nebraska","fips":"31","cases":"195828","deaths":"2109"}
 {"date":"2021-02-10","state":"Nevada","fips":"32","cases":"285882","deaths":"4585"}
 {"date":"2021-02-10","state":"New Hampshire","fips":"33","cases":"69247","deaths":"1116"}
 {"date":"2021-02-10","state":"New Jersey","fips":"34","cases":"732674","deaths":"22191"}
@@ -19015,7 +19015,7 @@
 {"date":"2021-02-11","state":"Mississippi","fips":"28","cases":"284664","deaths":"6390"}
 {"date":"2021-02-11","state":"Missouri","fips":"29","cases":"506647","deaths":"7798"}
 {"date":"2021-02-11","state":"Montana","fips":"30","cases":"96938","deaths":"1322"}
-{"date":"2021-02-11","state":"Nebraska","fips":"31","cases":"195246","deaths":"2103"}
+{"date":"2021-02-11","state":"Nebraska","fips":"31","cases":"196172","deaths":"2117"}
 {"date":"2021-02-11","state":"Nevada","fips":"32","cases":"286527","deaths":"4640"}
 {"date":"2021-02-11","state":"New Hampshire","fips":"33","cases":"69612","deaths":"1117"}
 {"date":"2021-02-11","state":"New Jersey","fips":"34","cases":"736330","deaths":"22329"}
@@ -19070,7 +19070,7 @@
 {"date":"2021-02-12","state":"Mississippi","fips":"28","cases":"285648","deaths":"6429"}
 {"date":"2021-02-12","state":"Missouri","fips":"29","cases":"507605","deaths":"7840"}
 {"date":"2021-02-12","state":"Montana","fips":"30","cases":"97159","deaths":"1325"}
-{"date":"2021-02-12","state":"Nebraska","fips":"31","cases":"195697","deaths":"2110"}
+{"date":"2021-02-12","state":"Nebraska","fips":"31","cases":"196616","deaths":"2124"}
 {"date":"2021-02-12","state":"Nevada","fips":"32","cases":"287104","deaths":"4668"}
 {"date":"2021-02-12","state":"New Hampshire","fips":"33","cases":"70072","deaths":"1126"}
 {"date":"2021-02-12","state":"New Jersey","fips":"34","cases":"740062","deaths":"22393"}
@@ -19097,3 +19097,113 @@
 {"date":"2021-02-12","state":"West Virginia","fips":"54","cases":"126887","deaths":"2200"}
 {"date":"2021-02-12","state":"Wisconsin","fips":"55","cases":"605785","deaths":"6737"}
 {"date":"2021-02-12","state":"Wyoming","fips":"56","cases":"53086","deaths":"647"}
+{"date":"2021-02-13","state":"Alabama","fips":"01","cases":"479856","deaths":"9242"}
+{"date":"2021-02-13","state":"Alaska","fips":"02","cases":"56008","deaths":"271"}
+{"date":"2021-02-13","state":"Arizona","fips":"04","cases":"796094","deaths":"14957"}
+{"date":"2021-02-13","state":"Arkansas","fips":"05","cases":"312562","deaths":"5252"}
+{"date":"2021-02-13","state":"California","fips":"06","cases":"3479029","deaths":"46865"}
+{"date":"2021-02-13","state":"Colorado","fips":"08","cases":"415261","deaths":"5913"}
+{"date":"2021-02-13","state":"Connecticut","fips":"09","cases":"267337","deaths":"7381"}
+{"date":"2021-02-13","state":"Delaware","fips":"10","cases":"82672","deaths":"1282"}
+{"date":"2021-02-13","state":"District of Columbia","fips":"11","cases":"38796","deaths":"979"}
+{"date":"2021-02-13","state":"Florida","fips":"12","cases":"1821929","deaths":"28682"}
+{"date":"2021-02-13","state":"Georgia","fips":"13","cases":"938577","deaths":"15377"}
+{"date":"2021-02-13","state":"Guam","fips":"66","cases":"8661","deaths":"131"}
+{"date":"2021-02-13","state":"Hawaii","fips":"15","cases":"26729","deaths":"422"}
+{"date":"2021-02-13","state":"Idaho","fips":"16","cases":"167566","deaths":"1805"}
+{"date":"2021-02-13","state":"Illinois","fips":"17","cases":"1163232","deaths":"22087"}
+{"date":"2021-02-13","state":"Indiana","fips":"18","cases":"650842","deaths":"12149"}
+{"date":"2021-02-13","state":"Iowa","fips":"19","cases":"329039","deaths":"5236"}
+{"date":"2021-02-13","state":"Kansas","fips":"20","cases":"289210","deaths":"4364"}
+{"date":"2021-02-13","state":"Kentucky","fips":"21","cases":"391449","deaths":"4441"}
+{"date":"2021-02-13","state":"Louisiana","fips":"22","cases":"418585","deaths":"9276"}
+{"date":"2021-02-13","state":"Maine","fips":"23","cases":"42419","deaths":"647"}
+{"date":"2021-02-13","state":"Maryland","fips":"24","cases":"370316","deaths":"7536"}
+{"date":"2021-02-13","state":"Massachusetts","fips":"25","cases":"555895","deaths":"15424"}
+{"date":"2021-02-13","state":"Michigan","fips":"26","cases":"628912","deaths":"16108"}
+{"date":"2021-02-13","state":"Minnesota","fips":"27","cases":"472859","deaths":"6437"}
+{"date":"2021-02-13","state":"Mississippi","fips":"28","cases":"286343","deaths":"6461"}
+{"date":"2021-02-13","state":"Missouri","fips":"29","cases":"508229","deaths":"7870"}
+{"date":"2021-02-13","state":"Montana","fips":"30","cases":"97338","deaths":"1328"}
+{"date":"2021-02-13","state":"Nebraska","fips":"31","cases":"197449","deaths":"2123"}
+{"date":"2021-02-13","state":"Nevada","fips":"32","cases":"287884","deaths":"4695"}
+{"date":"2021-02-13","state":"New Hampshire","fips":"33","cases":"70505","deaths":"1130"}
+{"date":"2021-02-13","state":"New Jersey","fips":"34","cases":"743819","deaths":"22440"}
+{"date":"2021-02-13","state":"New Mexico","fips":"35","cases":"180289","deaths":"3518"}
+{"date":"2021-02-13","state":"New York","fips":"36","cases":"1531797","deaths":"45295"}
+{"date":"2021-02-13","state":"North Carolina","fips":"37","cases":"822781","deaths":"10482"}
+{"date":"2021-02-13","state":"North Dakota","fips":"38","cases":"98581","deaths":"1461"}
+{"date":"2021-02-13","state":"Northern Mariana Islands","fips":"69","cases":"134","deaths":"2"}
+{"date":"2021-02-13","state":"Ohio","fips":"39","cases":"937541","deaths":"16340"}
+{"date":"2021-02-13","state":"Oklahoma","fips":"40","cases":"412276","deaths":"3994"}
+{"date":"2021-02-13","state":"Oregon","fips":"41","cases":"150034","deaths":"2137"}
+{"date":"2021-02-13","state":"Pennsylvania","fips":"42","cases":"897038","deaths":"23114"}
+{"date":"2021-02-13","state":"Puerto Rico","fips":"72","cases":"130928","deaths":"1915"}
+{"date":"2021-02-13","state":"Rhode Island","fips":"44","cases":"120821","deaths":"2290"}
+{"date":"2021-02-13","state":"South Carolina","fips":"45","cases":"483140","deaths":"7911"}
+{"date":"2021-02-13","state":"South Dakota","fips":"46","cases":"110205","deaths":"1838"}
+{"date":"2021-02-13","state":"Tennessee","fips":"47","cases":"741816","deaths":"10811"}
+{"date":"2021-02-13","state":"Texas","fips":"48","cases":"2564337","deaths":"41320"}
+{"date":"2021-02-13","state":"Utah","fips":"49","cases":"360584","deaths":"1791"}
+{"date":"2021-02-13","state":"Vermont","fips":"50","cases":"13561","deaths":"189"}
+{"date":"2021-02-13","state":"Virgin Islands","fips":"78","cases":"2525","deaths":"25"}
+{"date":"2021-02-13","state":"Virginia","fips":"51","cases":"547424","deaths":"6996"}
+{"date":"2021-02-13","state":"Washington","fips":"53","cases":"331033","deaths":"4739"}
+{"date":"2021-02-13","state":"West Virginia","fips":"54","cases":"127282","deaths":"2201"}
+{"date":"2021-02-13","state":"Wisconsin","fips":"55","cases":"606651","deaths":"6747"}
+{"date":"2021-02-13","state":"Wyoming","fips":"56","cases":"53086","deaths":"647"}
+{"date":"2021-02-14","state":"Alabama","fips":"01","cases":"480931","deaths":"9242"}
+{"date":"2021-02-14","state":"Alaska","fips":"02","cases":"56008","deaths":"271"}
+{"date":"2021-02-14","state":"Arizona","fips":"04","cases":"797537","deaths":"14978"}
+{"date":"2021-02-14","state":"Arkansas","fips":"05","cases":"313028","deaths":"5265"}
+{"date":"2021-02-14","state":"California","fips":"06","cases":"3484984","deaths":"47055"}
+{"date":"2021-02-14","state":"Colorado","fips":"08","cases":"415857","deaths":"5921"}
+{"date":"2021-02-14","state":"Connecticut","fips":"09","cases":"267337","deaths":"7381"}
+{"date":"2021-02-14","state":"Delaware","fips":"10","cases":"83003","deaths":"1283"}
+{"date":"2021-02-14","state":"District of Columbia","fips":"11","cases":"38918","deaths":"979"}
+{"date":"2021-02-14","state":"Florida","fips":"12","cases":"1827365","deaths":"28778"}
+{"date":"2021-02-14","state":"Georgia","fips":"13","cases":"940451","deaths":"15397"}
+{"date":"2021-02-14","state":"Guam","fips":"66","cases":"8664","deaths":"131"}
+{"date":"2021-02-14","state":"Hawaii","fips":"15","cases":"26772","deaths":"423"}
+{"date":"2021-02-14","state":"Idaho","fips":"16","cases":"167566","deaths":"1805"}
+{"date":"2021-02-14","state":"Illinois","fips":"17","cases":"1164743","deaths":"22121"}
+{"date":"2021-02-14","state":"Indiana","fips":"18","cases":"652060","deaths":"12173"}
+{"date":"2021-02-14","state":"Iowa","fips":"19","cases":"329258","deaths":"5236"}
+{"date":"2021-02-14","state":"Kansas","fips":"20","cases":"289225","deaths":"4364"}
+{"date":"2021-02-14","state":"Kentucky","fips":"21","cases":"392990","deaths":"4447"}
+{"date":"2021-02-14","state":"Louisiana","fips":"22","cases":"419891","deaths":"9292"}
+{"date":"2021-02-14","state":"Maine","fips":"23","cases":"42529","deaths":"649"}
+{"date":"2021-02-14","state":"Maryland","fips":"24","cases":"371163","deaths":"7554"}
+{"date":"2021-02-14","state":"Massachusetts","fips":"25","cases":"557777","deaths":"15484"}
+{"date":"2021-02-14","state":"Michigan","fips":"26","cases":"628966","deaths":"16108"}
+{"date":"2021-02-14","state":"Minnesota","fips":"27","cases":"473635","deaths":"6444"}
+{"date":"2021-02-14","state":"Mississippi","fips":"28","cases":"287436","deaths":"6462"}
+{"date":"2021-02-14","state":"Missouri","fips":"29","cases":"508623","deaths":"7875"}
+{"date":"2021-02-14","state":"Montana","fips":"30","cases":"97425","deaths":"1328"}
+{"date":"2021-02-14","state":"Nebraska","fips":"31","cases":"197658","deaths":"2123"}
+{"date":"2021-02-14","state":"Nevada","fips":"32","cases":"288493","deaths":"4709"}
+{"date":"2021-02-14","state":"New Hampshire","fips":"33","cases":"70785","deaths":"1133"}
+{"date":"2021-02-14","state":"New Jersey","fips":"34","cases":"745987","deaths":"22454"}
+{"date":"2021-02-14","state":"New Mexico","fips":"35","cases":"180571","deaths":"3531"}
+{"date":"2021-02-14","state":"New York","fips":"36","cases":"1540127","deaths":"45431"}
+{"date":"2021-02-14","state":"North Carolina","fips":"37","cases":"825572","deaths":"10524"}
+{"date":"2021-02-14","state":"North Dakota","fips":"38","cases":"98627","deaths":"1461"}
+{"date":"2021-02-14","state":"Northern Mariana Islands","fips":"69","cases":"134","deaths":"2"}
+{"date":"2021-02-14","state":"Ohio","fips":"39","cases":"939350","deaths":"16346"}
+{"date":"2021-02-14","state":"Oklahoma","fips":"40","cases":"413542","deaths":"4024"}
+{"date":"2021-02-14","state":"Oregon","fips":"41","cases":"150281","deaths":"2137"}
+{"date":"2021-02-14","state":"Pennsylvania","fips":"42","cases":"899474","deaths":"23136"}
+{"date":"2021-02-14","state":"Puerto Rico","fips":"72","cases":"131224","deaths":"1919"}
+{"date":"2021-02-14","state":"Rhode Island","fips":"44","cases":"120821","deaths":"2290"}
+{"date":"2021-02-14","state":"South Carolina","fips":"45","cases":"487293","deaths":"7998"}
+{"date":"2021-02-14","state":"South Dakota","fips":"46","cases":"110315","deaths":"1844"}
+{"date":"2021-02-14","state":"Tennessee","fips":"47","cases":"743266","deaths":"10842"}
+{"date":"2021-02-14","state":"Texas","fips":"48","cases":"2568858","deaths":"41440"}
+{"date":"2021-02-14","state":"Utah","fips":"49","cases":"361294","deaths":"1794"}
+{"date":"2021-02-14","state":"Vermont","fips":"50","cases":"13677","deaths":"189"}
+{"date":"2021-02-14","state":"Virgin Islands","fips":"78","cases":"2525","deaths":"25"}
+{"date":"2021-02-14","state":"Virginia","fips":"51","cases":"549999","deaths":"7012"}
+{"date":"2021-02-14","state":"Washington","fips":"53","cases":"331164","deaths":"4739"}
+{"date":"2021-02-14","state":"West Virginia","fips":"54","cases":"127588","deaths":"2210"}
+{"date":"2021-02-14","state":"Wisconsin","fips":"55","cases":"607213","deaths":"6748"}
+{"date":"2021-02-14","state":"Wyoming","fips":"56","cases":"53136","deaths":"647"}
