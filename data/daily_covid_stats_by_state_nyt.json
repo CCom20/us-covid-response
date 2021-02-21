@@ -19317,3 +19317,223 @@
 {"date":"2021-02-16","state":"West Virginia","fips":"54","cases":"128117","deaths":"2216"}
 {"date":"2021-02-16","state":"Wisconsin","fips":"55","cases":"608420","deaths":"6792"}
 {"date":"2021-02-16","state":"Wyoming","fips":"56","cases":"53351","deaths":"662"}
+{"date":"2021-02-17","state":"Alabama","fips":"01","cases":"483167","deaths":"9346"}
+{"date":"2021-02-17","state":"Alaska","fips":"02","cases":"56559","deaths":"277"}
+{"date":"2021-02-17","state":"Arizona","fips":"04","cases":"801741","deaths":"15084"}
+{"date":"2021-02-17","state":"Arkansas","fips":"05","cases":"314192","deaths":"5313"}
+{"date":"2021-02-17","state":"California","fips":"06","cases":"3505032","deaths":"47902"}
+{"date":"2021-02-17","state":"Colorado","fips":"08","cases":"418822","deaths":"5945"}
+{"date":"2021-02-17","state":"Connecticut","fips":"09","cases":"271356","deaths":"7476"}
+{"date":"2021-02-17","state":"Delaware","fips":"10","cases":"83581","deaths":"1316"}
+{"date":"2021-02-17","state":"District of Columbia","fips":"11","cases":"39180","deaths":"985"}
+{"date":"2021-02-17","state":"Florida","fips":"12","cases":"1844619","deaths":"29310"}
+{"date":"2021-02-17","state":"Georgia","fips":"13","cases":"948719","deaths":"15779"}
+{"date":"2021-02-17","state":"Guam","fips":"66","cases":"8672","deaths":"131"}
+{"date":"2021-02-17","state":"Hawaii","fips":"15","cases":"26846","deaths":"424"}
+{"date":"2021-02-17","state":"Idaho","fips":"16","cases":"168503","deaths":"1819"}
+{"date":"2021-02-17","state":"Illinois","fips":"17","cases":"1169747","deaths":"22224"}
+{"date":"2021-02-17","state":"Indiana","fips":"18","cases":"654636","deaths":"12250"}
+{"date":"2021-02-17","state":"Iowa","fips":"19","cases":"330906","deaths":"5306"}
+{"date":"2021-02-17","state":"Kansas","fips":"20","cases":"291868","deaths":"4521"}
+{"date":"2021-02-17","state":"Kentucky","fips":"21","cases":"395766","deaths":"4511"}
+{"date":"2021-02-17","state":"Louisiana","fips":"22","cases":"421018","deaths":"9391"}
+{"date":"2021-02-17","state":"Maine","fips":"23","cases":"42872","deaths":"654"}
+{"date":"2021-02-17","state":"Maryland","fips":"24","cases":"373161","deaths":"7630"}
+{"date":"2021-02-17","state":"Massachusetts","fips":"25","cases":"561936","deaths":"15623"}
+{"date":"2021-02-17","state":"Michigan","fips":"26","cases":"632728","deaths":"16151"}
+{"date":"2021-02-17","state":"Minnesota","fips":"27","cases":"475447","deaths":"6458"}
+{"date":"2021-02-17","state":"Mississippi","fips":"28","cases":"289398","deaths":"6524"}
+{"date":"2021-02-17","state":"Missouri","fips":"29","cases":"510705","deaths":"7929"}
+{"date":"2021-02-17","state":"Montana","fips":"30","cases":"97995","deaths":"1335"}
+{"date":"2021-02-17","state":"Nebraska","fips":"31","cases":"198215","deaths":"2146"}
+{"date":"2021-02-17","state":"Nevada","fips":"32","cases":"289478","deaths":"4776"}
+{"date":"2021-02-17","state":"New Hampshire","fips":"33","cases":"71965","deaths":"1148"}
+{"date":"2021-02-17","state":"New Jersey","fips":"34","cases":"755174","deaths":"22589"}
+{"date":"2021-02-17","state":"New Mexico","fips":"35","cases":"181332","deaths":"3564"}
+{"date":"2021-02-17","state":"New York","fips":"36","cases":"1559299","deaths":"45807"}
+{"date":"2021-02-17","state":"North Carolina","fips":"37","cases":"834056","deaths":"10712"}
+{"date":"2021-02-17","state":"North Dakota","fips":"38","cases":"98931","deaths":"1461"}
+{"date":"2021-02-17","state":"Northern Mariana Islands","fips":"69","cases":"135","deaths":"2"}
+{"date":"2021-02-17","state":"Ohio","fips":"39","cases":"945107","deaths":"16513"}
+{"date":"2021-02-17","state":"Oklahoma","fips":"40","cases":"415858","deaths":"4089"}
+{"date":"2021-02-17","state":"Oregon","fips":"41","cases":"151257","deaths":"2149"}
+{"date":"2021-02-17","state":"Pennsylvania","fips":"42","cases":"907736","deaths":"23360"}
+{"date":"2021-02-17","state":"Puerto Rico","fips":"72","cases":"132043","deaths":"1930"}
+{"date":"2021-02-17","state":"Rhode Island","fips":"44","cases":"122440","deaths":"2352"}
+{"date":"2021-02-17","state":"South Carolina","fips":"45","cases":"492369","deaths":"8117"}
+{"date":"2021-02-17","state":"South Dakota","fips":"46","cases":"110685","deaths":"1844"}
+{"date":"2021-02-17","state":"Tennessee","fips":"47","cases":"747117","deaths":"10892"}
+{"date":"2021-02-17","state":"Texas","fips":"48","cases":"2579959","deaths":"41650"}
+{"date":"2021-02-17","state":"Utah","fips":"49","cases":"363248","deaths":"1806"}
+{"date":"2021-02-17","state":"Vermont","fips":"50","cases":"13996","deaths":"191"}
+{"date":"2021-02-17","state":"Virgin Islands","fips":"78","cases":"2545","deaths":"25"}
+{"date":"2021-02-17","state":"Virginia","fips":"51","cases":"555592","deaths":"7075"}
+{"date":"2021-02-17","state":"Washington","fips":"53","cases":"334284","deaths":"4824"}
+{"date":"2021-02-17","state":"West Virginia","fips":"54","cases":"128405","deaths":"2225"}
+{"date":"2021-02-17","state":"Wisconsin","fips":"55","cases":"609192","deaths":"6803"}
+{"date":"2021-02-17","state":"Wyoming","fips":"56","cases":"53450","deaths":"662"}
+{"date":"2021-02-18","state":"Alabama","fips":"01","cases":"484365","deaths":"9424"}
+{"date":"2021-02-18","state":"Alaska","fips":"02","cases":"56768","deaths":"277"}
+{"date":"2021-02-18","state":"Arizona","fips":"04","cases":"803158","deaths":"15294"}
+{"date":"2021-02-18","state":"Arkansas","fips":"05","cases":"314445","deaths":"5323"}
+{"date":"2021-02-18","state":"California","fips":"06","cases":"3512881","deaths":"48334"}
+{"date":"2021-02-18","state":"Colorado","fips":"08","cases":"420094","deaths":"5966"}
+{"date":"2021-02-18","state":"Connecticut","fips":"09","cases":"271903","deaths":"7496"}
+{"date":"2021-02-18","state":"Delaware","fips":"10","cases":"83852","deaths":"1326"}
+{"date":"2021-02-18","state":"District of Columbia","fips":"11","cases":"39301","deaths":"992"}
+{"date":"2021-02-18","state":"Florida","fips":"12","cases":"1849736","deaths":"29473"}
+{"date":"2021-02-18","state":"Georgia","fips":"13","cases":"952133","deaths":"15906"}
+{"date":"2021-02-18","state":"Guam","fips":"66","cases":"8674","deaths":"131"}
+{"date":"2021-02-18","state":"Hawaii","fips":"15","cases":"26906","deaths":"425"}
+{"date":"2021-02-18","state":"Idaho","fips":"16","cases":"168783","deaths":"1828"}
+{"date":"2021-02-18","state":"Illinois","fips":"17","cases":"1171687","deaths":"22297"}
+{"date":"2021-02-18","state":"Indiana","fips":"18","cases":"655396","deaths":"12281"}
+{"date":"2021-02-18","state":"Iowa","fips":"19","cases":"331502","deaths":"5321"}
+{"date":"2021-02-18","state":"Kansas","fips":"20","cases":"291962","deaths":"4521"}
+{"date":"2021-02-18","state":"Kentucky","fips":"21","cases":"396800","deaths":"4539"}
+{"date":"2021-02-18","state":"Louisiana","fips":"22","cases":"421846","deaths":"9406"}
+{"date":"2021-02-18","state":"Maine","fips":"23","cases":"43090","deaths":"655"}
+{"date":"2021-02-18","state":"Maryland","fips":"24","cases":"374148","deaths":"7661"}
+{"date":"2021-02-18","state":"Massachusetts","fips":"25","cases":"563976","deaths":"15686"}
+{"date":"2021-02-18","state":"Michigan","fips":"26","cases":"633932","deaths":"16243"}
+{"date":"2021-02-18","state":"Minnesota","fips":"27","cases":"476360","deaths":"6472"}
+{"date":"2021-02-18","state":"Mississippi","fips":"28","cases":"289532","deaths":"6531"}
+{"date":"2021-02-18","state":"Missouri","fips":"29","cases":"511506","deaths":"8087"}
+{"date":"2021-02-18","state":"Montana","fips":"30","cases":"98211","deaths":"1338"}
+{"date":"2021-02-18","state":"Nebraska","fips":"31","cases":"198481","deaths":"2151"}
+{"date":"2021-02-18","state":"Nevada","fips":"32","cases":"289975","deaths":"4807"}
+{"date":"2021-02-18","state":"New Hampshire","fips":"33","cases":"72399","deaths":"1150"}
+{"date":"2021-02-18","state":"New Jersey","fips":"34","cases":"758450","deaths":"22721"}
+{"date":"2021-02-18","state":"New Mexico","fips":"35","cases":"181739","deaths":"3582"}
+{"date":"2021-02-18","state":"New York","fips":"36","cases":"1568881","deaths":"45957"}
+{"date":"2021-02-18","state":"North Carolina","fips":"37","cases":"838097","deaths":"10804"}
+{"date":"2021-02-18","state":"North Dakota","fips":"38","cases":"99064","deaths":"1465"}
+{"date":"2021-02-18","state":"Northern Mariana Islands","fips":"69","cases":"135","deaths":"2"}
+{"date":"2021-02-18","state":"Ohio","fips":"39","cases":"947389","deaths":"16611"}
+{"date":"2021-02-18","state":"Oklahoma","fips":"40","cases":"416476","deaths":"4112"}
+{"date":"2021-02-18","state":"Oregon","fips":"41","cases":"151713","deaths":"2155"}
+{"date":"2021-02-18","state":"Pennsylvania","fips":"42","cases":"911033","deaths":"23452"}
+{"date":"2021-02-18","state":"Puerto Rico","fips":"72","cases":"132121","deaths":"1940"}
+{"date":"2021-02-18","state":"Rhode Island","fips":"44","cases":"122859","deaths":"2367"}
+{"date":"2021-02-18","state":"South Carolina","fips":"45","cases":"495044","deaths":"8155"}
+{"date":"2021-02-18","state":"South Dakota","fips":"46","cases":"110871","deaths":"1847"}
+{"date":"2021-02-18","state":"Tennessee","fips":"47","cases":"748207","deaths":"10964"}
+{"date":"2021-02-18","state":"Texas","fips":"48","cases":"2582346","deaths":"41764"}
+{"date":"2021-02-18","state":"Utah","fips":"49","cases":"364399","deaths":"1813"}
+{"date":"2021-02-18","state":"Vermont","fips":"50","cases":"14149","deaths":"193"}
+{"date":"2021-02-18","state":"Virgin Islands","fips":"78","cases":"2558","deaths":"25"}
+{"date":"2021-02-18","state":"Virginia","fips":"51","cases":"557896","deaths":"7090"}
+{"date":"2021-02-18","state":"Washington","fips":"53","cases":"335338","deaths":"4868"}
+{"date":"2021-02-18","state":"West Virginia","fips":"54","cases":"128760","deaths":"2236"}
+{"date":"2021-02-18","state":"Wisconsin","fips":"55","cases":"610056","deaths":"6820"}
+{"date":"2021-02-18","state":"Wyoming","fips":"56","cases":"53531","deaths":"662"}
+{"date":"2021-02-19","state":"Alabama","fips":"01","cases":"485212","deaths":"9573"}
+{"date":"2021-02-19","state":"Alaska","fips":"02","cases":"56979","deaths":"278"}
+{"date":"2021-02-19","state":"Arizona","fips":"04","cases":"805037","deaths":"15439"}
+{"date":"2021-02-19","state":"Arkansas","fips":"05","cases":"314713","deaths":"5336"}
+{"date":"2021-02-19","state":"California","fips":"06","cases":"3520761","deaths":"48794"}
+{"date":"2021-02-19","state":"Colorado","fips":"08","cases":"421327","deaths":"5980"}
+{"date":"2021-02-19","state":"Connecticut","fips":"09","cases":"273101","deaths":"7523"}
+{"date":"2021-02-19","state":"Delaware","fips":"10","cases":"84181","deaths":"1343"}
+{"date":"2021-02-19","state":"District of Columbia","fips":"11","cases":"39461","deaths":"993"}
+{"date":"2021-02-19","state":"Florida","fips":"12","cases":"1856419","deaths":"29691"}
+{"date":"2021-02-19","state":"Georgia","fips":"13","cases":"955724","deaths":"16110"}
+{"date":"2021-02-19","state":"Guam","fips":"66","cases":"8684","deaths":"131"}
+{"date":"2021-02-19","state":"Hawaii","fips":"15","cases":"26962","deaths":"427"}
+{"date":"2021-02-19","state":"Idaho","fips":"16","cases":"169084","deaths":"1829"}
+{"date":"2021-02-19","state":"Illinois","fips":"17","cases":"1173897","deaths":"22368"}
+{"date":"2021-02-19","state":"Indiana","fips":"18","cases":"656433","deaths":"12325"}
+{"date":"2021-02-19","state":"Iowa","fips":"19","cases":"331747","deaths":"5336"}
+{"date":"2021-02-19","state":"Kansas","fips":"20","cases":"293869","deaths":"4614"}
+{"date":"2021-02-19","state":"Kentucky","fips":"21","cases":"398665","deaths":"4562"}
+{"date":"2021-02-19","state":"Louisiana","fips":"22","cases":"422287","deaths":"9440"}
+{"date":"2021-02-19","state":"Maine","fips":"23","cases":"43224","deaths":"656"}
+{"date":"2021-02-19","state":"Maryland","fips":"24","cases":"375156","deaths":"7677"}
+{"date":"2021-02-19","state":"Massachusetts","fips":"25","cases":"565794","deaths":"15726"}
+{"date":"2021-02-19","state":"Michigan","fips":"26","cases":"635349","deaths":"16265"}
+{"date":"2021-02-19","state":"Minnesota","fips":"27","cases":"477355","deaths":"6480"}
+{"date":"2021-02-19","state":"Mississippi","fips":"28","cases":"289892","deaths":"6534"}
+{"date":"2021-02-19","state":"Missouri","fips":"29","cases":"512272","deaths":"8140"}
+{"date":"2021-02-19","state":"Montana","fips":"30","cases":"98465","deaths":"1340"}
+{"date":"2021-02-19","state":"Nebraska","fips":"31","cases":"198949","deaths":"2167"}
+{"date":"2021-02-19","state":"Nevada","fips":"32","cases":"290412","deaths":"4838"}
+{"date":"2021-02-19","state":"New Hampshire","fips":"33","cases":"72767","deaths":"1152"}
+{"date":"2021-02-19","state":"New Jersey","fips":"34","cases":"761496","deaths":"22784"}
+{"date":"2021-02-19","state":"New Mexico","fips":"35","cases":"182050","deaths":"3601"}
+{"date":"2021-02-19","state":"New York","fips":"36","cases":"1577454","deaths":"46119"}
+{"date":"2021-02-19","state":"North Carolina","fips":"37","cases":"841331","deaths":"10863"}
+{"date":"2021-02-19","state":"North Dakota","fips":"38","cases":"99183","deaths":"1465"}
+{"date":"2021-02-19","state":"Northern Mariana Islands","fips":"69","cases":"135","deaths":"2"}
+{"date":"2021-02-19","state":"Ohio","fips":"39","cases":"949695","deaths":"16693"}
+{"date":"2021-02-19","state":"Oklahoma","fips":"40","cases":"417345","deaths":"4132"}
+{"date":"2021-02-19","state":"Oregon","fips":"41","cases":"152190","deaths":"2155"}
+{"date":"2021-02-19","state":"Pennsylvania","fips":"42","cases":"913825","deaths":"23529"}
+{"date":"2021-02-19","state":"Puerto Rico","fips":"72","cases":"132239","deaths":"1947"}
+{"date":"2021-02-19","state":"Rhode Island","fips":"44","cases":"123145","deaths":"2376"}
+{"date":"2021-02-19","state":"South Carolina","fips":"45","cases":"497937","deaths":"8213"}
+{"date":"2021-02-19","state":"South Dakota","fips":"46","cases":"111018","deaths":"1853"}
+{"date":"2021-02-19","state":"Tennessee","fips":"47","cases":"749512","deaths":"10971"}
+{"date":"2021-02-19","state":"Texas","fips":"48","cases":"2588291","deaths":"42000"}
+{"date":"2021-02-19","state":"Utah","fips":"49","cases":"365256","deaths":"1834"}
+{"date":"2021-02-19","state":"Vermont","fips":"50","cases":"14251","deaths":"193"}
+{"date":"2021-02-19","state":"Virgin Islands","fips":"78","cases":"2575","deaths":"25"}
+{"date":"2021-02-19","state":"Virginia","fips":"51","cases":"559930","deaths":"7098"}
+{"date":"2021-02-19","state":"Washington","fips":"53","cases":"336184","deaths":"4886"}
+{"date":"2021-02-19","state":"West Virginia","fips":"54","cases":"129055","deaths":"2248"}
+{"date":"2021-02-19","state":"Wisconsin","fips":"55","cases":"610974","deaths":"6856"}
+{"date":"2021-02-19","state":"Wyoming","fips":"56","cases":"53683","deaths":"662"}
+{"date":"2021-02-20","state":"Alabama","fips":"01","cases":"485986","deaths":"9590"}
+{"date":"2021-02-20","state":"Alaska","fips":"02","cases":"56979","deaths":"278"}
+{"date":"2021-02-20","state":"Arizona","fips":"04","cases":"807163","deaths":"15480"}
+{"date":"2021-02-20","state":"Arkansas","fips":"05","cases":"315230","deaths":"5348"}
+{"date":"2021-02-20","state":"California","fips":"06","cases":"3526828","deaths":"49111"}
+{"date":"2021-02-20","state":"Colorado","fips":"08","cases":"422240","deaths":"5984"}
+{"date":"2021-02-20","state":"Connecticut","fips":"09","cases":"273101","deaths":"7523"}
+{"date":"2021-02-20","state":"Delaware","fips":"10","cases":"84531","deaths":"1366"}
+{"date":"2021-02-20","state":"District of Columbia","fips":"11","cases":"39553","deaths":"994"}
+{"date":"2021-02-20","state":"Florida","fips":"12","cases":"1863699","deaths":"29812"}
+{"date":"2021-02-20","state":"Georgia","fips":"13","cases":"958998","deaths":"16233"}
+{"date":"2021-02-20","state":"Guam","fips":"66","cases":"8685","deaths":"131"}
+{"date":"2021-02-20","state":"Hawaii","fips":"15","cases":"27011","deaths":"427"}
+{"date":"2021-02-20","state":"Idaho","fips":"16","cases":"169229","deaths":"1829"}
+{"date":"2021-02-20","state":"Illinois","fips":"17","cases":"1175781","deaths":"22426"}
+{"date":"2021-02-20","state":"Indiana","fips":"18","cases":"657848","deaths":"12336"}
+{"date":"2021-02-20","state":"Iowa","fips":"19","cases":"332225","deaths":"5336"}
+{"date":"2021-02-20","state":"Kansas","fips":"20","cases":"294010","deaths":"4614"}
+{"date":"2021-02-20","state":"Kentucky","fips":"21","cases":"400011","deaths":"4585"}
+{"date":"2021-02-20","state":"Louisiana","fips":"22","cases":"422287","deaths":"9440"}
+{"date":"2021-02-20","state":"Maine","fips":"23","cases":"43367","deaths":"658"}
+{"date":"2021-02-20","state":"Maryland","fips":"24","cases":"375919","deaths":"7697"}
+{"date":"2021-02-20","state":"Massachusetts","fips":"25","cases":"567764","deaths":"15779"}
+{"date":"2021-02-20","state":"Michigan","fips":"26","cases":"636167","deaths":"16332"}
+{"date":"2021-02-20","state":"Minnesota","fips":"27","cases":"478225","deaths":"6491"}
+{"date":"2021-02-20","state":"Mississippi","fips":"28","cases":"290242","deaths":"6553"}
+{"date":"2021-02-20","state":"Missouri","fips":"29","cases":"512753","deaths":"8151"}
+{"date":"2021-02-20","state":"Montana","fips":"30","cases":"98681","deaths":"1342"}
+{"date":"2021-02-20","state":"Nebraska","fips":"31","cases":"199162","deaths":"2169"}
+{"date":"2021-02-20","state":"Nevada","fips":"32","cases":"290746","deaths":"4870"}
+{"date":"2021-02-20","state":"New Hampshire","fips":"33","cases":"73161","deaths":"1153"}
+{"date":"2021-02-20","state":"New Jersey","fips":"34","cases":"764374","deaths":"22834"}
+{"date":"2021-02-20","state":"New Mexico","fips":"35","cases":"182475","deaths":"3612"}
+{"date":"2021-02-20","state":"New York","fips":"36","cases":"1585692","deaths":"46233"}
+{"date":"2021-02-20","state":"North Carolina","fips":"37","cases":"844520","deaths":"10930"}
+{"date":"2021-02-20","state":"North Dakota","fips":"38","cases":"99258","deaths":"1467"}
+{"date":"2021-02-20","state":"Northern Mariana Islands","fips":"69","cases":"135","deaths":"2"}
+{"date":"2021-02-20","state":"Ohio","fips":"39","cases":"952306","deaths":"16749"}
+{"date":"2021-02-20","state":"Oklahoma","fips":"40","cases":"418318","deaths":"4155"}
+{"date":"2021-02-20","state":"Oregon","fips":"41","cases":"152711","deaths":"2159"}
+{"date":"2021-02-20","state":"Pennsylvania","fips":"42","cases":"916378","deaths":"23615"}
+{"date":"2021-02-20","state":"Puerto Rico","fips":"72","cases":"132450","deaths":"1957"}
+{"date":"2021-02-20","state":"Rhode Island","fips":"44","cases":"123145","deaths":"2376"}
+{"date":"2021-02-20","state":"South Carolina","fips":"45","cases":"501277","deaths":"8256"}
+{"date":"2021-02-20","state":"South Dakota","fips":"46","cases":"111165","deaths":"1859"}
+{"date":"2021-02-20","state":"Tennessee","fips":"47","cases":"750628","deaths":"11022"}
+{"date":"2021-02-20","state":"Texas","fips":"48","cases":"2593823","deaths":"42202"}
+{"date":"2021-02-20","state":"Utah","fips":"49","cases":"366034","deaths":"1842"}
+{"date":"2021-02-20","state":"Vermont","fips":"50","cases":"14359","deaths":"196"}
+{"date":"2021-02-20","state":"Virgin Islands","fips":"78","cases":"2575","deaths":"25"}
+{"date":"2021-02-20","state":"Virginia","fips":"51","cases":"561812","deaths":"7197"}
+{"date":"2021-02-20","state":"Washington","fips":"53","cases":"336819","deaths":"4886"}
+{"date":"2021-02-20","state":"West Virginia","fips":"54","cases":"129364","deaths":"2254"}
+{"date":"2021-02-20","state":"Wisconsin","fips":"55","cases":"611789","deaths":"6875"}
+{"date":"2021-02-20","state":"Wyoming","fips":"56","cases":"53683","deaths":"662"}
